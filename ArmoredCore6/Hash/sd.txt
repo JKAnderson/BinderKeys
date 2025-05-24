@@ -12939,5 +12939,5 @@
 /s50_50_0000.bnk
 /sfx.bnk
 /testsoundbank.bnk
-/weapon_enemy.bnk
 /weapon.bnk
+/weapon_enemy.bnk
