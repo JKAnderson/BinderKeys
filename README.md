@@ -44,20 +44,20 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 |---|---:|---:|---:|
 | (All) | 372,470 | 378,098 | 98.51% |
 | [ArmoredCore5_PS3](#armoredcore5_ps3) | 19,392 | 19,971 | 97.10% |
-| [ArmoredCore5_X360](#armoredcore5_x360) | 19,360 | 19,806 | 97.75% |
+| [ArmoredCore5_X360](#armoredcore5_x360) | 19,360 | 19,806 | 97.74% |
 | [ArmoredCore6_PC](#armoredcore6_pc) | 37,171 | 37,171 | 100.00% |
-| [ArmoredCoreVerdictDay_PS3](#armoredcoreverdictday_ps3) | 14,841 | 16,942 | 87.60% |
+| [ArmoredCoreVerdictDay_PS3](#armoredcoreverdictday_ps3) | 14,841 | 16,942 | 87.59% |
 | [ArmoredCoreVerdictDay_X360](#armoredcoreverdictday_x360) | 14,782 | 16,920 | 87.36% |
 | [DarkSouls_PC](#darksouls_pc) | 6,244 | 6,244 | 100.00% |
 | [DarkSouls_PS3](#darksouls_ps3) | 6,651 | 6,697 | 99.31% |
 | [DarkSouls_X360](#darksouls_x360) | 6,213 | 6,332 | 98.12% |
 | [DarkSouls2_PC](#darksouls2_pc) | 18,937 | 18,946 | 99.95% |
 | [DarkSouls2Scholar_PC](#darksouls2scholar_pc) | 16,360 | 16,360 | 100.00% |
-| [DarkSouls3_PC](#darksouls3_pc) | 15,699 | 15,701 | 99.99% |
-| [DarkSoulsRemastered_NS](#darksoulsremastered_ns) | 5,919 | 6,005 | 98.57% |
-| [EldenRing_PC](#eldenring_pc) | 130,875 | 130,958 | 99.94% |
-| [EldenRingNightreign_PC](#eldenringnightreign_pc) | 25,134 | 25,135 | 100.00% |
-| [Sekiro_PC](#sekiro_pc) | 8,749 | 8,765 | 99.82% |
+| [DarkSouls3_PC](#darksouls3_pc) | 15,699 | 15,701 | 99.98% |
+| [DarkSoulsRemastered_NS](#darksoulsremastered_ns) | 5,919 | 6,005 | 98.56% |
+| [EldenRing_PC](#eldenring_pc) | 130,875 | 130,958 | 99.93% |
+| [EldenRingNightreign_PC](#eldenringnightreign_pc) | 25,134 | 25,135 | 99.99% |
+| [Sekiro_PC](#sekiro_pc) | 8,749 | 8,765 | 99.81% |
 | [SekiroSoundtrack_PC](#sekirosoundtrack_pc) | 184 | 186 | 98.92% |
 | [SteelBattalionHeavyArmor_X360](#steelbattalionheavyarmor_x360) | 25,959 | 25,959 | 100.00% |
 
@@ -654,7 +654,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 [Back to top](#coverage)
 | Binder | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
-| dvdbnd5 | 19,360 | 19,806 | 97.75% |
+| dvdbnd5 | 19,360 | 19,806 | 97.74% |
 
 ### Hashes Missed
 | Binder | Hash | Sources |
@@ -1120,7 +1120,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 [Back to top](#coverage)
 | Binder | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
-| dvdbnd5_layer0 | 14,841 | 16,942 | 87.60% |
+| dvdbnd5_layer0 | 14,841 | 16,942 | 87.59% |
 
 ### Hashes Missed
 | Binder | Hash | Sources |
@@ -5390,7 +5390,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | Binder | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
 | dvdbnd | 6,087 | 6,087 | 100.00% |
-| patchbnd | 564 | 610 | 92.46% |
+| patchbnd | 564 | 610 | 92.45% |
 
 ### Hashes Missed
 | Binder | Hash | Sources |
@@ -5448,7 +5448,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 |---|---:|---:|---:|
 | dvdbnd0 | 6,028 | 6,028 | 100.00% |
 | dvdbnd1 | 111 | 111 | 100.00% |
-| patchbnd0 | 67 | 167 | 40.12% |
+| patchbnd0 | 67 | 167 | 40.11% |
 | patchbnd1 | 7 | 26 | 26.92% |
 
 ### Hashes Missed
@@ -5578,8 +5578,8 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 [Back to top](#coverage)
 | Binder | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
-| GameDataEbl | 13,975 | 13,981 | 99.96% |
-| HqChrEbl | 194 | 197 | 98.48% |
+| GameDataEbl | 13,975 | 13,981 | 99.95% |
+| HqChrEbl | 194 | 197 | 98.47% |
 | HqMapEbl | 112 | 112 | 100.00% |
 | HqObjEbl | 1,593 | 1,593 | 100.00% |
 | HqPartsEbl | 3,063 | 3,063 | 100.00% |
@@ -5611,7 +5611,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 [Back to top](#coverage)
 | Binder | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
-| Data1 | 2,418 | 2,420 | 99.92% |
+| Data1 | 2,418 | 2,420 | 99.91% |
 | Data2 | 2,344 | 2,344 | 100.00% |
 | Data3 | 721 | 721 | 100.00% |
 | Data4 | 963 | 963 | 100.00% |
@@ -5629,7 +5629,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 [Back to top](#coverage)
 | Binder | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
-| dvdbnd0 | 5,489 | 5,575 | 98.46% |
+| dvdbnd0 | 5,489 | 5,575 | 98.45% |
 | dvdbnd1 | 430 | 430 | 100.00% |
 
 ### Hashes Missed
@@ -5729,9 +5729,9 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | Data0 | 5,836 | 5,837 | 99.98% |
 | Data1 | 39,422 | 39,422 | 100.00% |
 | Data2 | 39,723 | 39,723 | 100.00% |
-| Data3 | 1,658 | 1,660 | 99.88% |
+| Data3 | 1,658 | 1,660 | 99.87% |
 | DLC | 33,757 | 33,824 | 99.80% |
-| sd | 8,656 | 8,658 | 99.98% |
+| sd | 8,656 | 8,658 | 99.97% |
 | sd_dlc02 | 1,823 | 1,834 | 99.40% |
 
 ### Hashes Missed
@@ -5825,7 +5825,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 [Back to top](#coverage)
 | Binder | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
-| data0 | 2,347 | 2,348 | 99.96% |
+| data0 | 2,347 | 2,348 | 99.95% |
 | data1 | 12,762 | 12,762 | 100.00% |
 | data2 | 6,519 | 6,519 | 100.00% |
 | data3 | 1,229 | 1,229 | 100.00% |
@@ -5843,7 +5843,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | Data1 | 1,170 | 1,183 | 98.90% |
 | Data2 | 165 | 165 | 100.00% |
 | Data3 | 571 | 571 | 100.00% |
-| Data4 | 1,395 | 1,397 | 99.86% |
+| Data4 | 1,395 | 1,397 | 99.85% |
 | Data5 | 5,448 | 5,449 | 99.98% |
 
 ### Hashes Missed
