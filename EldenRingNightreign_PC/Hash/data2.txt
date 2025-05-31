@@ -5843,6 +5843,9 @@
 /map/nvc/m21_30_00_00_m60_45_37_00.nvc.dcx
 /map/nvc/m21_40_00_00_m60_45_38_00.nvc.dcx
 /map/nvc/m21_50_00_00_m60_45_39_00.nvc.dcx
+/map/nvc/m22_00_00_00_m60_42_38_00.nvc.dcx
+/map/nvc/m22_10_00_00_m60_43_38_00.nvc.dcx
+/map/nvc/m23_00_00_00_m60_45_37_00.nvc.dcx
 /map/nvc/m60_41_35_00_m60_41_36_00.nvc.dcx
 /map/nvc/m60_41_35_00_m60_41_36_10.nvc.dcx
 /map/nvc/m60_41_35_00_m60_41_36_20.nvc.dcx

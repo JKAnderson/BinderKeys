@@ -42,7 +42,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 # Coverage
 | Game | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
-| (All) | 372,459 | 378,098 | 98.51% |
+| (All) | 372,470 | 378,098 | 98.51% |
 | [ArmoredCore5_PS3](#armoredcore5_ps3) | 19,392 | 19,971 | 97.10% |
 | [ArmoredCore5_X360](#armoredcore5_x360) | 19,360 | 19,806 | 97.75% |
 | [ArmoredCore6_PC](#armoredcore6_pc) | 37,171 | 37,171 | 100.00% |
@@ -56,7 +56,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | [DarkSouls3_PC](#darksouls3_pc) | 15,699 | 15,701 | 99.99% |
 | [DarkSoulsRemastered_NS](#darksoulsremastered_ns) | 5,919 | 6,005 | 98.57% |
 | [EldenRing_PC](#eldenring_pc) | 130,875 | 130,958 | 99.94% |
-| [EldenRingNightreign_PC](#eldenringnightreign_pc) | 25,123 | 25,135 | 99.95% |
+| [EldenRingNightreign_PC](#eldenringnightreign_pc) | 25,134 | 25,135 | 100.00% |
 | [Sekiro_PC](#sekiro_pc) | 8,749 | 8,765 | 99.82% |
 | [SekiroSoundtrack_PC](#sekirosoundtrack_pc) | 184 | 186 | 98.92% |
 | [SteelBattalionHeavyArmor_X360](#steelbattalionheavyarmor_x360) | 25,959 | 25,959 | 100.00% |
@@ -5826,8 +5826,8 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | Binder | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
 | data0 | 2,347 | 2,348 | 99.96% |
-| data1 | 12,754 | 12,762 | 99.94% |
-| data2 | 6,516 | 6,519 | 99.95% |
+| data1 | 12,762 | 12,762 | 100.00% |
+| data2 | 6,519 | 6,519 | 100.00% |
 | data3 | 1,229 | 1,229 | 100.00% |
 | sd | 2,277 | 2,277 | 100.00% |
 
@@ -5835,17 +5835,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | Binder | Hash | Sources |
 |---|---:|---|
 | data0 | `bfc71f725eb2ac52` | 9139632565061756864 |
-| data1 | `7db4fbd8e433e084` | 9139632565061756864 |
-| data1 | `17765257f85e4df3` | 9139632565061756864 |
-| data1 | `171a24177bd70b6b` | 9139632565061756864 |
-| data1 | `bee1c50ddff69368` | 9139632565061756864 |
-| data1 | `d76d2337c6535da6` | 9139632565061756864 |
-| data1 | `cfe5c8051c038563` | 9139632565061756864 |
-| data1 | `48bedcd2a35ea1c4` | 9139632565061756864 |
-| data1 | `1dc03b3a3a047a93` | 9139632565061756864 |
-| data2 | `aa81e3cd11bc4f70` | 9139632565061756864 |
-| data2 | `ba996181c674877d` | 9139632565061756864 |
-| data2 | `102082830a0efe76` | 9139632565061756864 |
 
 ## Sekiro_PC
 [Back to top](#coverage)
