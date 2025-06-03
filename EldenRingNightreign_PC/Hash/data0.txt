@@ -914,6 +914,7 @@
 /param/drawparam/m11_00_0200.gparam.dcx
 /param/drawparam/m12_00_0000.gparam.dcx
 /param/drawparam/m12_00_0010.gparam.dcx
+/param/drawparam/m12_00_0010_test.gparam.dcx
 /param/drawparam/m12_00_0100.gparam.dcx
 /param/drawparam/m12_00_0200.gparam.dcx
 /param/drawparam/m13_00_0000.gparam.dcx

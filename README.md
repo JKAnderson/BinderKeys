@@ -42,7 +42,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 # Coverage
 | Game | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
-| (All) | 372,470 | 378,098 | 98.51% |
+| (All) | 372,471 | 378,098 | 98.51% |
 | [ArmoredCore5_PS3](#armoredcore5_ps3) | 19,392 | 19,971 | 97.10% |
 | [ArmoredCore5_X360](#armoredcore5_x360) | 19,360 | 19,806 | 97.74% |
 | [ArmoredCore6_PC](#armoredcore6_pc) | 37,171 | 37,171 | 100.00% |
@@ -56,7 +56,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | [DarkSouls3_PC](#darksouls3_pc) | 15,699 | 15,701 | 99.98% |
 | [DarkSoulsRemastered_NS](#darksoulsremastered_ns) | 5,919 | 6,005 | 98.56% |
 | [EldenRing_PC](#eldenring_pc) | 130,875 | 130,958 | 99.93% |
-| [EldenRingNightreign_PC](#eldenringnightreign_pc) | 25,134 | 25,135 | 99.99% |
+| [EldenRingNightreign_PC](#eldenringnightreign_pc) | 25,135 | 25,135 | 100.00% |
 | [Sekiro_PC](#sekiro_pc) | 8,749 | 8,765 | 99.81% |
 | [SekiroSoundtrack_PC](#sekirosoundtrack_pc) | 184 | 186 | 98.92% |
 | [SteelBattalionHeavyArmor_X360](#steelbattalionheavyarmor_x360) | 25,959 | 25,959 | 100.00% |
@@ -5825,16 +5825,11 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 [Back to top](#coverage)
 | Binder | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
-| data0 | 2,347 | 2,348 | 99.95% |
+| data0 | 2,348 | 2,348 | 100.00% |
 | data1 | 12,762 | 12,762 | 100.00% |
 | data2 | 6,519 | 6,519 | 100.00% |
 | data3 | 1,229 | 1,229 | 100.00% |
 | sd | 2,277 | 2,277 | 100.00% |
-
-### Hashes Missed
-| Binder | Hash | Sources |
-|---|---:|---|
-| data0 | `bfc71f725eb2ac52` | 9139632565061756864 |
 
 ## Sekiro_PC
 [Back to top](#coverage)
