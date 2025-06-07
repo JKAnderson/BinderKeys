@@ -157,6 +157,9 @@
 /model_hq/chr/c6820.texbnd
 /model_hq/chr/c6830.texbnd
 /model_hq/chr/c6840.texbnd
+/model_hq/chr/c6850.texbnd
+/model_hq/chr/c6860.texbnd
+/model_hq/chr/c6870.texbnd
 /model_hq/chr/c6880.texbnd
 /model_hq/chr/c6890.texbnd
 /model_hq/chr/c6900.texbnd

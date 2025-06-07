@@ -42,7 +42,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 # Coverage
 | Game | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
-| (All) | 372,559 | 378,098 | 98.53% |
+| (All) | 372,568 | 378,098 | 98.53% |
 | [ArmoredCore5_PS3](#armoredcore5_ps3) | 19,392 | 19,971 | 97.10% |
 | [ArmoredCore5_X360](#armoredcore5_x360) | 19,360 | 19,806 | 97.74% |
 | [ArmoredCore6_PC](#armoredcore6_pc) | 37,171 | 37,171 | 100.00% |
@@ -51,7 +51,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | [DarkSouls_PC](#darksouls_pc) | 6,244 | 6,244 | 100.00% |
 | [DarkSouls_PS3](#darksouls_ps3) | 6,651 | 6,697 | 99.31% |
 | [DarkSouls_X360](#darksouls_x360) | 6,213 | 6,332 | 98.12% |
-| [DarkSouls2_PC](#darksouls2_pc) | 18,937 | 18,946 | 99.95% |
+| [DarkSouls2_PC](#darksouls2_pc) | 18,946 | 18,946 | 100.00% |
 | [DarkSouls2Scholar_PC](#darksouls2scholar_pc) | 16,360 | 16,360 | 100.00% |
 | [DarkSouls3_PC](#darksouls3_pc) | 15,701 | 15,701 | 100.00% |
 | [DarkSoulsRemastered_NS](#darksoulsremastered_ns) | 5,919 | 6,005 | 98.56% |
@@ -5578,24 +5578,11 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 [Back to top](#coverage)
 | Binder | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
-| GameDataEbl | 13,975 | 13,981 | 99.95% |
-| HqChrEbl | 194 | 197 | 98.47% |
+| GameDataEbl | 13,981 | 13,981 | 100.00% |
+| HqChrEbl | 197 | 197 | 100.00% |
 | HqMapEbl | 112 | 112 | 100.00% |
 | HqObjEbl | 1,593 | 1,593 | 100.00% |
 | HqPartsEbl | 3,063 | 3,063 | 100.00% |
-
-### Hashes Missed
-| Binder | Hash | Sources |
-|---|---:|---|
-| GameDataEbl | `53734782` | 678231180590883615<br>8263952769361579924 |
-| GameDataEbl | `835c34a1` | 678231180590883615<br>8263952769361579924 |
-| GameDataEbl | `b34521c0` | 678231180590883615<br>8263952769361579924 |
-| GameDataEbl | `e949da80` | 678231180590883615<br>8263952769361579924 |
-| GameDataEbl | `e527bfab` | 678231180590883615<br>8263952769361579924 |
-| GameDataEbl | `ed6bf555` | 678231180590883615<br>8263952769361579924 |
-| HqChrEbl | `f01d27f2` | 678231180590883615<br>8263952769361579924 |
-| HqChrEbl | `20061511` | 678231180590883615<br>8263952769361579924 |
-| HqChrEbl | `4fef0230` | 678231180590883615<br>8263952769361579924 |
 
 ## DarkSouls2Scholar_PC
 [Back to top](#coverage)

@@ -5993,6 +5993,12 @@
 /model/chr/c6830.texbnd
 /model/chr/c6840.bnd
 /model/chr/c6840.texbnd
+/model/chr/c6850.bnd
+/model/chr/c6850.texbnd
+/model/chr/c6860.bnd
+/model/chr/c6860.texbnd
+/model/chr/c6870.bnd
+/model/chr/c6870.texbnd
 /model/chr/c6880.bnd
 /model/chr/c6880.texbnd
 /model/chr/c6890.bnd
