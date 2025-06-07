@@ -1863,12 +1863,14 @@
 /shader/gxdecal.shaderbnd.dcx
 /shader/gxffxshader.shaderbnd.dcx
 /shader/gxflvershader.shaderbnd.dcx
+/shader/gxflvershader.shaderbndaddition.dcx
 /shader/gxflvershader.shaderbnddebug.dcx
 /shader/gxgui.shaderbnd.dcx
 /shader/gxposteffect.shaderbnd.dcx
 /shader/gxrenderershader.shaderbnd.dcx
 /shader/gxshader.shaderbnd.dcx
 /shader/shaderbdle.shaderbdlebnd.dcx
+/shader/shaderbdle.shaderbdlebndaddition.dcx
 /shader/shaderbdle.shaderbdlebnddebug.dcx
 /sound/fdp_c1070.fev
 /sound/fdp_c1070.fsb

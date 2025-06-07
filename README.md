@@ -42,7 +42,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 # Coverage
 | Game | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
-| (All) | 372,557 | 378,098 | 98.53% |
+| (All) | 372,559 | 378,098 | 98.53% |
 | [ArmoredCore5_PS3](#armoredcore5_ps3) | 19,392 | 19,971 | 97.10% |
 | [ArmoredCore5_X360](#armoredcore5_x360) | 19,360 | 19,806 | 97.74% |
 | [ArmoredCore6_PC](#armoredcore6_pc) | 37,171 | 37,171 | 100.00% |
@@ -53,7 +53,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | [DarkSouls_X360](#darksouls_x360) | 6,213 | 6,332 | 98.12% |
 | [DarkSouls2_PC](#darksouls2_pc) | 18,937 | 18,946 | 99.95% |
 | [DarkSouls2Scholar_PC](#darksouls2scholar_pc) | 16,360 | 16,360 | 100.00% |
-| [DarkSouls3_PC](#darksouls3_pc) | 15,699 | 15,701 | 99.98% |
+| [DarkSouls3_PC](#darksouls3_pc) | 15,701 | 15,701 | 100.00% |
 | [DarkSoulsRemastered_NS](#darksoulsremastered_ns) | 5,919 | 6,005 | 98.56% |
 | [EldenRing_PC](#eldenring_pc) | 130,958 | 130,958 | 100.00% |
 | [EldenRingNightreign_PC](#eldenringnightreign_pc) | 25,135 | 25,135 | 100.00% |
@@ -5611,19 +5611,13 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 [Back to top](#coverage)
 | Binder | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
-| Data1 | 2,418 | 2,420 | 99.91% |
+| Data1 | 2,420 | 2,420 | 100.00% |
 | Data2 | 2,344 | 2,344 | 100.00% |
 | Data3 | 721 | 721 | 100.00% |
 | Data4 | 963 | 963 | 100.00% |
 | Data5 | 7,214 | 7,214 | 100.00% |
 | DLC1 | 775 | 775 | 100.00% |
 | DLC2 | 1,264 | 1,264 | 100.00% |
-
-### Hashes Missed
-| Binder | Hash | Sources |
-|---|---:|---|
-| Data1 | `f382795c` | 6527729996691313167<br>7853448938913649058<br>7976421722356737336<br>8172414207521140707<br>8582612580945347462 |
-| Data1 | `482946c8` | 6527729996691313167<br>7853448938913649058<br>7976421722356737336<br>8172414207521140707<br>8582612580945347462 |
 
 ## DarkSoulsRemastered_NS
 [Back to top](#coverage)
