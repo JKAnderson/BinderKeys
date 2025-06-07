@@ -42,7 +42,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 # Coverage
 | Game | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
-| (All) | 372,554 | 378,098 | 98.53% |
+| (All) | 372,557 | 378,098 | 98.53% |
 | [ArmoredCore5_PS3](#armoredcore5_ps3) | 19,392 | 19,971 | 97.10% |
 | [ArmoredCore5_X360](#armoredcore5_x360) | 19,360 | 19,806 | 97.74% |
 | [ArmoredCore6_PC](#armoredcore6_pc) | 37,171 | 37,171 | 100.00% |
@@ -57,7 +57,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | [DarkSoulsRemastered_NS](#darksoulsremastered_ns) | 5,919 | 6,005 | 98.56% |
 | [EldenRing_PC](#eldenring_pc) | 130,958 | 130,958 | 100.00% |
 | [EldenRingNightreign_PC](#eldenringnightreign_pc) | 25,135 | 25,135 | 100.00% |
-| [Sekiro_PC](#sekiro_pc) | 8,749 | 8,765 | 99.81% |
+| [Sekiro_PC](#sekiro_pc) | 8,752 | 8,765 | 99.85% |
 | [SekiroSoundtrack_PC](#sekirosoundtrack_pc) | 184 | 186 | 98.92% |
 | [SteelBattalionHeavyArmor_X360](#steelbattalionheavyarmor_x360) | 25,959 | 25,959 | 100.00% |
 
@@ -5748,7 +5748,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 [Back to top](#coverage)
 | Binder | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
-| Data1 | 1,170 | 1,183 | 98.90% |
+| Data1 | 1,173 | 1,183 | 99.15% |
 | Data2 | 165 | 165 | 100.00% |
 | Data3 | 571 | 571 | 100.00% |
 | Data4 | 1,395 | 1,397 | 99.85% |
@@ -5767,9 +5767,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | Data1 | `d7255946` | 3103745976851322117<br>3631105265998125253<br>3790569681063041856<br>6909442703034056813<br>5682942936660360763<br>8495754623934990551 |
 | Data1 | `7ac73483` | 3103745976851322117<br>3631105265998125253<br>5682942936660360763<br>8495754623934990551 |
 | Data1 | `232f9c79` | 3103745976851322117<br>3631105265998125253<br>5682942936660360763<br>8495754623934990551 |
-| Data1 | `1f38aa9b` | 5682942936660360763<br>8495754623934990551 |
-| Data1 | `81423212` | 5682942936660360763<br>8495754623934990551 |
-| Data1 | `c033e420` | 5682942936660360763<br>8495754623934990551 |
 | Data4 | `ef1726c0` | 3103745976851322117<br>3631105265998125253<br>5682942936660360763<br>8495754623934990551 |
 | Data4 | `a6973107` | 3103745976851322117<br>3631105265998125253<br>5682942936660360763<br>8495754623934990551 |
 | Data5 | `a28b84c8` | 3103745976851322117<br>3631105265998125253<br>3790569681063041856<br>6909442703034056813<br>5682942936660360763<br>8495754623934990551 |
