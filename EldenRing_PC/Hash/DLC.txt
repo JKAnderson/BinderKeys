@@ -1243,6 +1243,7 @@
 /asset/aeg/aeg050/aeg050_837.geombnd.dcx
 /asset/aeg/aeg050/aeg050_838.geombnd.dcx
 /asset/aeg/aeg050/aeg050_839.geombnd.dcx
+/asset/aeg/aeg050/aeg050_840.geombnd.dcx
 /asset/aeg/aeg050/aeg050_845.geombnd.dcx
 /asset/aeg/aeg050/aeg050_846.geombnd.dcx
 /asset/aeg/aeg050/aeg050_847.geombnd.dcx
@@ -2490,6 +2491,8 @@
 /asset/aeg/aeg052/aeg052_807_l.geomhkxbnd.dcx
 /asset/aeg/aeg052/aeg052_808.geombnd.dcx
 /asset/aeg/aeg052/aeg052_808_l.geomhkxbnd.dcx
+/asset/aeg/aeg052/aeg052_809.geombnd.dcx
+/asset/aeg/aeg052/aeg052_809_l.geomhkxbnd.dcx
 /asset/aeg/aeg052/aeg052_810.geombnd.dcx
 /asset/aeg/aeg052/aeg052_810_l.geomhkxbnd.dcx
 /asset/aeg/aeg052/aeg052_811.geombnd.dcx
@@ -2523,6 +2526,7 @@
 /asset/aeg/aeg052/aeg052_829.geombnd.dcx
 /asset/aeg/aeg052/aeg052_830.geombnd.dcx
 /asset/aeg/aeg052/aeg052_830_l.geomhkxbnd.dcx
+/asset/aeg/aeg052/aeg052_831.geombnd.dcx
 /asset/aeg/aeg052/aeg052_832.geombnd.dcx
 /asset/aeg/aeg052/aeg052_833.geombnd.dcx
 /asset/aeg/aeg052/aeg052_835.geombnd.dcx
@@ -3194,6 +3198,8 @@
 /asset/aeg/aeg068/aeg068_146.geombnd.dcx
 /asset/aeg/aeg068/aeg068_149.geombnd.dcx
 /asset/aeg/aeg068/aeg068_151.geombnd.dcx
+/asset/aeg/aeg068/aeg068_153.geombnd.dcx
+/asset/aeg/aeg068/aeg068_154.geombnd.dcx
 /asset/aeg/aeg068/aeg068_156.geombnd.dcx
 /asset/aeg/aeg068/aeg068_158.geombnd.dcx
 /asset/aeg/aeg068/aeg068_159.geombnd.dcx
@@ -5508,6 +5514,8 @@
 /asset/aeg/aeg410/aeg410_209_l.geomhkxbnd.dcx
 /asset/aeg/aeg410/aeg410_210.geombnd.dcx
 /asset/aeg/aeg410/aeg410_210_l.geomhkxbnd.dcx
+/asset/aeg/aeg410/aeg410_211.geombnd.dcx
+/asset/aeg/aeg410/aeg410_211_l.geomhkxbnd.dcx
 /asset/aeg/aeg410/aeg410_212.geombnd.dcx
 /asset/aeg/aeg410/aeg410_212_l.geomhkxbnd.dcx
 /asset/aeg/aeg410/aeg410_213.geombnd.dcx
@@ -6283,6 +6291,10 @@
 /asset/aeg/aeg410/aeg410_594.geombnd.dcx
 /asset/aeg/aeg410/aeg410_594_h.geomhkxbnd.dcx
 /asset/aeg/aeg410/aeg410_594_l.geomhkxbnd.dcx
+/asset/aeg/aeg410/aeg410_595.geombnd.dcx
+/asset/aeg/aeg410/aeg410_595_l.geomhkxbnd.dcx
+/asset/aeg/aeg410/aeg410_596.geombnd.dcx
+/asset/aeg/aeg410/aeg410_596_l.geomhkxbnd.dcx
 /asset/aeg/aeg410/aeg410_598.geombnd.dcx
 /asset/aeg/aeg410/aeg410_598_l.geomhkxbnd.dcx
 /asset/aeg/aeg410/aeg410_599.geombnd.dcx
@@ -7461,6 +7473,8 @@
 /asset/aeg/aeg418/aeg418_141.geombnd.dcx
 /asset/aeg/aeg418/aeg418_141_h.geomhkxbnd.dcx
 /asset/aeg/aeg418/aeg418_141_l.geomhkxbnd.dcx
+/asset/aeg/aeg418/aeg418_201.geombnd.dcx
+/asset/aeg/aeg418/aeg418_201_l.geomhkxbnd.dcx
 /asset/aeg/aeg420/aeg420_010.geombnd.dcx
 /asset/aeg/aeg420/aeg420_010_h.geomhkxbnd.dcx
 /asset/aeg/aeg420/aeg420_010_l.geomhkxbnd.dcx
@@ -8944,6 +8958,7 @@
 /asset/aeg/aeg427/aeg427_154.geombnd.dcx
 /asset/aeg/aeg427/aeg427_155.geombnd.dcx
 /asset/aeg/aeg427/aeg427_155_l.geomhkxbnd.dcx
+/asset/aeg/aeg427/aeg427_157.geombnd.dcx
 /asset/aeg/aeg427/aeg427_158.geombnd.dcx
 /asset/aeg/aeg427/aeg427_158_l.geomhkxbnd.dcx
 /asset/aeg/aeg427/aeg427_159.geombnd.dcx
@@ -12182,6 +12197,9 @@
 /asset/aeg/aeg443/aeg443_010.geombnd.dcx
 /asset/aeg/aeg443/aeg443_010_h.geomhkxbnd.dcx
 /asset/aeg/aeg443/aeg443_010_l.geomhkxbnd.dcx
+/asset/aeg/aeg443/aeg443_011.geombnd.dcx
+/asset/aeg/aeg443/aeg443_011_h.geomhkxbnd.dcx
+/asset/aeg/aeg443/aeg443_011_l.geomhkxbnd.dcx
 /asset/aeg/aeg443/aeg443_012.geombnd.dcx
 /asset/aeg/aeg443/aeg443_012_h.geomhkxbnd.dcx
 /asset/aeg/aeg443/aeg443_012_l.geomhkxbnd.dcx
@@ -13384,6 +13402,8 @@
 /asset/aeg/aeg447/aeg447_038.geombnd.dcx
 /asset/aeg/aeg447/aeg447_038_h.geomhkxbnd.dcx
 /asset/aeg/aeg447/aeg447_038_l.geomhkxbnd.dcx
+/asset/aeg/aeg447/aeg447_040.geombnd.dcx
+/asset/aeg/aeg447/aeg447_040_l.geomhkxbnd.dcx
 /asset/aeg/aeg447/aeg447_041.geombnd.dcx
 /asset/aeg/aeg447/aeg447_041_l.geomhkxbnd.dcx
 /asset/aeg/aeg447/aeg447_042.geombnd.dcx
@@ -13730,6 +13750,7 @@
 /asset/aeg/aeg461/aeg461_054.geombnd.dcx
 /asset/aeg/aeg461/aeg461_055.geombnd.dcx
 /asset/aeg/aeg461/aeg461_056.geombnd.dcx
+/asset/aeg/aeg461/aeg461_085.geombnd.dcx
 /asset/aeg/aeg461/aeg461_089.geombnd.dcx
 /asset/aeg/aeg461/aeg461_090.geombnd.dcx
 /asset/aeg/aeg461/aeg461_091.geombnd.dcx
@@ -14050,6 +14071,9 @@
 /asset/aeg/aeg468/aeg468_499.geombnd.dcx
 /asset/aeg/aeg468/aeg468_500.geombnd.dcx
 /asset/aeg/aeg468/aeg468_510.geombnd.dcx
+/asset/aeg/aeg468/aeg468_530.geombnd.dcx
+/asset/aeg/aeg468/aeg468_535.geombnd.dcx
+/asset/aeg/aeg468/aeg468_540.geombnd.dcx
 /asset/aeg/aeg468/aeg468_545.geombnd.dcx
 /asset/aeg/aeg468/aeg468_550.geombnd.dcx
 /asset/aeg/aeg468/aeg468_570.geombnd.dcx
@@ -14767,6 +14791,8 @@
 /asset/aet/aet051/aet051_421_l.tpf.dcx
 /asset/aet/aet051/aet051_422.tpf.dcx
 /asset/aet/aet051/aet051_422_l.tpf.dcx
+/asset/aet/aet051/aet051_423.tpf.dcx
+/asset/aet/aet051/aet051_423_l.tpf.dcx
 /asset/aet/aet051/aet051_424.tpf.dcx
 /asset/aet/aet051/aet051_424_l.tpf.dcx
 /asset/aet/aet051/aet051_425.tpf.dcx
@@ -14981,6 +15007,8 @@
 /asset/aet/aet055/aet055_121_l.tpf.dcx
 /asset/aet/aet055/aet055_122.tpf.dcx
 /asset/aet/aet055/aet055_122_l.tpf.dcx
+/asset/aet/aet055/aet055_123.tpf.dcx
+/asset/aet/aet055/aet055_123_l.tpf.dcx
 /asset/aet/aet055/aet055_124.tpf.dcx
 /asset/aet/aet055/aet055_124_l.tpf.dcx
 /asset/aet/aet055/aet055_125.tpf.dcx
@@ -15199,6 +15227,10 @@
 /asset/aet/aet055/aet055_300_l.tpf.dcx
 /asset/aet/aet055/aet055_302.tpf.dcx
 /asset/aet/aet055/aet055_302_l.tpf.dcx
+/asset/aet/aet055/aet055_303.tpf.dcx
+/asset/aet/aet055/aet055_303_l.tpf.dcx
+/asset/aet/aet055/aet055_304.tpf.dcx
+/asset/aet/aet055/aet055_304_l.tpf.dcx
 /asset/aet/aet055/aet055_305.tpf.dcx
 /asset/aet/aet055/aet055_305_l.tpf.dcx
 /asset/aet/aet055/aet055_306.tpf.dcx
@@ -15475,6 +15507,8 @@
 /asset/aet/aet055/aet055_571_l.tpf.dcx
 /asset/aet/aet055/aet055_572.tpf.dcx
 /asset/aet/aet055/aet055_572_l.tpf.dcx
+/asset/aet/aet055/aet055_590.tpf.dcx
+/asset/aet/aet055/aet055_590_l.tpf.dcx
 /asset/aet/aet055/aet055_591.tpf.dcx
 /asset/aet/aet055/aet055_591_l.tpf.dcx
 /asset/aet/aet055/aet055_592.tpf.dcx
@@ -16035,6 +16069,8 @@
 /asset/aet/aet070/aet070_126_l.tpf.dcx
 /asset/aet/aet070/aet070_127.tpf.dcx
 /asset/aet/aet070/aet070_127_l.tpf.dcx
+/asset/aet/aet070/aet070_128.tpf.dcx
+/asset/aet/aet070/aet070_128_l.tpf.dcx
 /asset/aet/aet070/aet070_129.tpf.dcx
 /asset/aet/aet070/aet070_129_l.tpf.dcx
 /asset/aet/aet070/aet070_130.tpf.dcx
@@ -16895,12 +16931,16 @@
 /asset/aet/aet410/aet410_207_l.tpf.dcx
 /asset/aet/aet410/aet410_208.tpf.dcx
 /asset/aet/aet410/aet410_208_l.tpf.dcx
+/asset/aet/aet410/aet410_209.tpf.dcx
+/asset/aet/aet410/aet410_209_l.tpf.dcx
 /asset/aet/aet410/aet410_210.tpf.dcx
 /asset/aet/aet410/aet410_210_l.tpf.dcx
 /asset/aet/aet410/aet410_211.tpf.dcx
 /asset/aet/aet410/aet410_211_l.tpf.dcx
 /asset/aet/aet410/aet410_212.tpf.dcx
 /asset/aet/aet410/aet410_212_l.tpf.dcx
+/asset/aet/aet410/aet410_214.tpf.dcx
+/asset/aet/aet410/aet410_214_l.tpf.dcx
 /asset/aet/aet410/aet410_215.tpf.dcx
 /asset/aet/aet410/aet410_215_l.tpf.dcx
 /asset/aet/aet410/aet410_216.tpf.dcx
@@ -16911,6 +16951,8 @@
 /asset/aet/aet410/aet410_218_l.tpf.dcx
 /asset/aet/aet410/aet410_219.tpf.dcx
 /asset/aet/aet410/aet410_219_l.tpf.dcx
+/asset/aet/aet410/aet410_220.tpf.dcx
+/asset/aet/aet410/aet410_220_l.tpf.dcx
 /asset/aet/aet410/aet410_221.tpf.dcx
 /asset/aet/aet410/aet410_221_l.tpf.dcx
 /asset/aet/aet410/aet410_222.tpf.dcx
@@ -17831,6 +17873,8 @@
 /asset/aet/aet440/aet440_065_l.tpf.dcx
 /asset/aet/aet440/aet440_066.tpf.dcx
 /asset/aet/aet440/aet440_066_l.tpf.dcx
+/asset/aet/aet440/aet440_067.tpf.dcx
+/asset/aet/aet440/aet440_067_l.tpf.dcx
 /asset/aet/aet440/aet440_068.tpf.dcx
 /asset/aet/aet440/aet440_068_l.tpf.dcx
 /asset/aet/aet440/aet440_069.tpf.dcx
@@ -17839,6 +17883,8 @@
 /asset/aet/aet440/aet440_070_l.tpf.dcx
 /asset/aet/aet440/aet440_071.tpf.dcx
 /asset/aet/aet440/aet440_071_l.tpf.dcx
+/asset/aet/aet440/aet440_073.tpf.dcx
+/asset/aet/aet440/aet440_073_l.tpf.dcx
 /asset/aet/aet440/aet440_076.tpf.dcx
 /asset/aet/aet440/aet440_076_l.tpf.dcx
 /asset/aet/aet440/aet440_077.tpf.dcx
@@ -17855,6 +17901,8 @@
 /asset/aet/aet440/aet440_083_l.tpf.dcx
 /asset/aet/aet440/aet440_094.tpf.dcx
 /asset/aet/aet440/aet440_094_l.tpf.dcx
+/asset/aet/aet440/aet440_095.tpf.dcx
+/asset/aet/aet440/aet440_095_l.tpf.dcx
 /asset/aet/aet440/aet440_096.tpf.dcx
 /asset/aet/aet440/aet440_096_l.tpf.dcx
 /asset/aet/aet440/aet440_097.tpf.dcx
@@ -17863,6 +17911,8 @@
 /asset/aet/aet440/aet440_098_l.tpf.dcx
 /asset/aet/aet440/aet440_099.tpf.dcx
 /asset/aet/aet440/aet440_099_l.tpf.dcx
+/asset/aet/aet440/aet440_100.tpf.dcx
+/asset/aet/aet440/aet440_100_l.tpf.dcx
 /asset/aet/aet440/aet440_101.tpf.dcx
 /asset/aet/aet440/aet440_101_l.tpf.dcx
 /asset/aet/aet440/aet440_102.tpf.dcx
@@ -18333,6 +18383,8 @@
 /asset/aet/aet443/aet443_158_l.tpf.dcx
 /asset/aet/aet443/aet443_159.tpf.dcx
 /asset/aet/aet443/aet443_159_l.tpf.dcx
+/asset/aet/aet443/aet443_160.tpf.dcx
+/asset/aet/aet443/aet443_160_l.tpf.dcx
 /asset/aet/aet443/aet443_162.tpf.dcx
 /asset/aet/aet443/aet443_162_l.tpf.dcx
 /asset/aet/aet443/aet443_163.tpf.dcx
@@ -19536,6 +19588,11 @@
 /chr/c5500.chrbnd.dcx
 /chr/c5500_h.texbnd.dcx
 /chr/c5500_l.texbnd.dcx
+/chr/c5501.anibnd.dcx
+/chr/c5501.behbnd.dcx
+/chr/c5501.chrbnd.dcx
+/chr/c5501_h.texbnd.dcx
+/chr/c5501_l.texbnd.dcx
 /chr/c5510.anibnd.dcx
 /chr/c5510_div00.anibnd.dcx
 /chr/c5510_div01.anibnd.dcx
@@ -20480,6 +20537,7 @@
 /map/m20/m20_01_00_00/m20_01_00_00_low.ivinfobnd.dcx
 /map/m20/m20_01_00_00/m20_01_00_00_middle.ivinfobnd.dcx
 /map/m20/m20_01_00_99/m20_01_00_99_068000.mapbnd.dcx
+/map/m20/m20_01_00_99/m20_01_00_99_901011.mapbnd.dcx
 /map/m20/m20_01_00_99/m20_01_00_99_901110.mapbnd.dcx
 /map/m20/m20_01_00_99/m20_01_00_99_901111.mapbnd.dcx
 /map/m21/common/m21_cgrading.tpf.dcx
@@ -21391,6 +21449,7 @@
 /map/m61/m61_11_12_02/m61_11_12_02_53455100.mapbnd.dcx
 /map/m61/m61_11_12_02/m61_11_12_02_60464850.mapbnd.dcx
 /map/m61/m61_11_12_02/m61_11_12_02_60464851.mapbnd.dcx
+/map/m61/m61_11_12_02/m61_11_12_02_61464900.mapbnd.dcx
 /map/m61/m61_11_12_02/m61_11_12_02_62465000.mapbnd.dcx
 /map/m61/m61_11_12_02/m61_11_12_02_63465100.mapbnd.dcx
 /map/m61/m61_11_12_02/m61_11_12_02_70474800.mapbnd.dcx
@@ -21797,6 +21856,8 @@
 /map/m61/m61_13_10_02/m61_13_10_02_62544250.mapbnd.dcx
 /map/m61/m61_13_10_02/m61_13_10_02_63544300.mapbnd.dcx
 /map/m61/m61_13_10_02/m61_13_10_02_63544350.mapbnd.dcx
+/map/m61/m61_13_10_02/m61_13_10_02_70554000.mapbnd.dcx
+/map/m61/m61_13_10_02/m61_13_10_02_70554050.mapbnd.dcx
 /map/m61/m61_13_10_02/m61_13_10_02_71554100.mapbnd.dcx
 /map/m61/m61_13_10_02/m61_13_10_02_71554150.mapbnd.dcx
 /map/m61/m61_13_10_02/m61_13_10_02_72554200.mapbnd.dcx
@@ -22168,6 +22229,7 @@
 /map/m61/m61_23_23_11/m61_23_23_11_77474752.mapbnd.dcx
 /map/m61/m61_23_24_01/m61_23_24_01_60464850.mapbnd.dcx
 /map/m61/m61_23_24_01/m61_23_24_01_60464851.mapbnd.dcx
+/map/m61/m61_23_24_01/m61_23_24_01_61464900.mapbnd.dcx
 /map/m61/m61_23_24_01/m61_23_24_01_70474800.mapbnd.dcx
 /map/m61/m61_23_24_01/m61_23_24_01_70474850.mapbnd.dcx
 /map/m61/m61_23_24_01/m61_23_24_01_71474900.mapbnd.dcx
@@ -22425,6 +22487,8 @@
 /map/m61/m61_27_20_01/m61_27_20_01_60544051.mapbnd.dcx
 /map/m61/m61_27_20_01/m61_27_20_01_61544100.mapbnd.dcx
 /map/m61/m61_27_20_01/m61_27_20_01_61544150.mapbnd.dcx
+/map/m61/m61_27_20_01/m61_27_20_01_70554000.mapbnd.dcx
+/map/m61/m61_27_20_01/m61_27_20_01_70554050.mapbnd.dcx
 /map/m61/m61_27_20_01/m61_27_20_01_71554100.mapbnd.dcx
 /map/m61/m61_27_20_01/m61_27_20_01_71554150.mapbnd.dcx
 /map/m61/m61_27_21_01/m61_27_21_01_62544200.mapbnd.dcx
@@ -24739,6 +24803,7 @@
 /map/m61/m61_46_49_00/m61_46_49_00.mpw.dcx
 /map/m61/m61_46_49_00/m61_46_49_00.nva.dcx
 /map/m61/m61_46_49_00/m61_46_49_00.nvmhktbnd.dcx
+/map/m61/m61_46_49_00/m61_46_49_00_464900.mapbnd.dcx
 /map/m61/m61_46_49_00/m61_46_49_00_envmap_00_high_00.tpfbnd.dcx
 /map/m61/m61_46_49_00/m61_46_49_00_envmap_00_low_00.tpfbnd.dcx
 /map/m61/m61_46_49_00/m61_46_49_00_envmap_00_middle_00.tpfbnd.dcx
@@ -31060,6 +31125,8 @@
 /map/m61/m61_55_40_00/m61_55_40_00.mpw.dcx
 /map/m61/m61_55_40_00/m61_55_40_00.nva.dcx
 /map/m61/m61_55_40_00/m61_55_40_00.nvmhktbnd.dcx
+/map/m61/m61_55_40_00/m61_55_40_00_554000.mapbnd.dcx
+/map/m61/m61_55_40_00/m61_55_40_00_554050.mapbnd.dcx
 /map/m61/m61_55_40_00/m61_55_40_00_envmap_00_high_00.tpfbnd.dcx
 /map/m61/m61_55_40_00/m61_55_40_00_envmap_00_low_00.tpfbnd.dcx
 /map/m61/m61_55_40_00/m61_55_40_00_envmap_00_middle_00.tpfbnd.dcx

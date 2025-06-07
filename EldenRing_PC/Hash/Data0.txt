@@ -308,6 +308,7 @@
 /action/script/c5480.hks
 /action/script/c5490.hks
 /action/script/c5500.hks
+/action/script/c5501.hks
 /action/script/c5511.hks
 /action/script/c5512.hks
 /action/script/c5513.hks

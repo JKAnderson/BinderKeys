@@ -1482,6 +1482,8 @@
 /chr/c5261_h.texbnd.dcx
 /chr/c5261_l.texbnd.dcx
 /chr/c5310.anibnd.dcx
+/chr/c5310.behbnd.dcx
+/chr/c5310.chrbnd.dcx
 /chr/c5310_div00.anibnd.dcx
 /chr/c5310_div01.anibnd.dcx
 /chr/c5310_h.texbnd.dcx

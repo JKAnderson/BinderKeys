@@ -42,7 +42,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 # Coverage
 | Game | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
-| (All) | 372,471 | 378,098 | 98.51% |
+| (All) | 372,554 | 378,098 | 98.53% |
 | [ArmoredCore5_PS3](#armoredcore5_ps3) | 19,392 | 19,971 | 97.10% |
 | [ArmoredCore5_X360](#armoredcore5_x360) | 19,360 | 19,806 | 97.74% |
 | [ArmoredCore6_PC](#armoredcore6_pc) | 37,171 | 37,171 | 100.00% |
@@ -55,7 +55,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | [DarkSouls2Scholar_PC](#darksouls2scholar_pc) | 16,360 | 16,360 | 100.00% |
 | [DarkSouls3_PC](#darksouls3_pc) | 15,699 | 15,701 | 99.98% |
 | [DarkSoulsRemastered_NS](#darksoulsremastered_ns) | 5,919 | 6,005 | 98.56% |
-| [EldenRing_PC](#eldenring_pc) | 130,875 | 130,958 | 99.93% |
+| [EldenRing_PC](#eldenring_pc) | 130,958 | 130,958 | 100.00% |
 | [EldenRingNightreign_PC](#eldenringnightreign_pc) | 25,135 | 25,135 | 100.00% |
 | [Sekiro_PC](#sekiro_pc) | 8,749 | 8,765 | 99.81% |
 | [SekiroSoundtrack_PC](#sekirosoundtrack_pc) | 184 | 186 | 98.92% |
@@ -5726,100 +5726,13 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 [Back to top](#coverage)
 | Binder | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
-| Data0 | 5,836 | 5,837 | 99.98% |
+| Data0 | 5,837 | 5,837 | 100.00% |
 | Data1 | 39,422 | 39,422 | 100.00% |
 | Data2 | 39,723 | 39,723 | 100.00% |
-| Data3 | 1,658 | 1,660 | 99.87% |
-| DLC | 33,757 | 33,824 | 99.80% |
-| sd | 8,656 | 8,658 | 99.97% |
-| sd_dlc02 | 1,823 | 1,834 | 99.40% |
-
-### Hashes Missed
-| Binder | Hash | Sources |
-|---|---:|---|
-| Data0 | `6554b7487641b74e` | 1.11 |
-| Data3 | `56ca9dfeef05d3bd` | 1.11 |
-| Data3 | `0fae5618452aba07` | 1.11 |
-| DLC | `c92ff70186a92fa6` | 1.11 |
-| DLC | `b6c975043c4f07f3` | 1.11 |
-| DLC | `34b247c38f641530` | 1.11 |
-| DLC | `64e74b9f7c7adf12` | 1.11 |
-| DLC | `e87a1bc482dbdc0f` | 1.11 |
-| DLC | `2def44dfba2b02fe` | 1.11 |
-| DLC | `7650f7a207f0558a` | 1.11 |
-| DLC | `d4cd29d43a4c3200` | 1.11 |
-| DLC | `6359978ee20e78bb` | 1.11 |
-| DLC | `f2064fe700c45c78` | 1.11 |
-| DLC | `9f9d452dbd718fcf` | 1.11 |
-| DLC | `09b6df878f867b54` | 1.11 |
-| DLC | `9d89507d5542f425` | 1.11 |
-| DLC | `bcb9a4908bfdf63a` | 1.11 |
-| DLC | `11a4b83b05f9af73` | 1.11 |
-| DLC | `662a5cf5852f2f1f` | 1.11 |
-| DLC | `28b6a9338c4f3646` | 1.11 |
-| DLC | `b3d0a232be46d50e` | 1.11 |
-| DLC | `b9c173450897366c` | 1.11 |
-| DLC | `76854de8a7171ae4` | 1.11 |
-| DLC | `ecacaf3d235cdf40` | 1.11 |
-| DLC | `dd1e2c7eb593a9c3` | 1.11 |
-| DLC | `3cd2e82f6d158eaa` | 1.11 |
-| DLC | `e1750c8182a00d87` | 1.11 |
-| DLC | `50318c2f87ece08c` | 1.11 |
-| DLC | `8d62b5d0d281cdba` | 1.11 |
-| DLC | `4626911b6757849b` | 1.11 |
-| DLC | `be0eb37c7d02af7f` | 1.11 |
-| DLC | `6a77527e316ec723` | 1.11 |
-| DLC | `744f8ba62c092988` | 1.11 |
-| DLC | `baed7c04a12e577b` | 1.11 |
-| DLC | `1b2a043e4b21b3b3` | 1.11 |
-| DLC | `858d3012ee40794a` | 1.11 |
-| DLC | `9df59f51839bfb07` | 1.11 |
-| DLC | `6fad2d1d9273ee3d` | 1.11 |
-| DLC | `0cb93c4ba6443dcc` | 1.11 |
-| DLC | `68a95f0f0c2e5a74` | 1.11 |
-| DLC | `93989dfbb648358f` | 1.11 |
-| DLC | `b43eccf2c4cab40d` | 1.11 |
-| DLC | `0e5086dd22edcfa4` | 1.11 |
-| DLC | `5917391e97747bba` | 1.11 |
-| DLC | `8dcf04a500dad49c` | 1.11 |
-| DLC | `afc7e33de7e48c4a` | 1.11 |
-| DLC | `41c5272a6e9796b3` | 1.11 |
-| DLC | `1eeb18f3d4a26d3f` | 1.11 |
-| DLC | `c492b93bc9630ca7` | 1.11 |
-| DLC | `acd2d5c18045361c` | 1.11 |
-| DLC | `81e25c4f38433229` | 1.11 |
-| DLC | `94d4b49e7410d197` | 1.11 |
-| DLC | `56318d0e5da7cb87` | 1.11 |
-| DLC | `360e1d89126dbf11` | 1.11 |
-| DLC | `42bf975ff8e5c217` | 1.11 |
-| DLC | `5129a162e1c4f0fe` | 1.11 |
-| DLC | `5f8ea4df061c27f7` | 1.11 |
-| DLC | `8ddbad6bf9221cbd` | 1.11 |
-| DLC | `014b113a3ca90f97` | 1.11 |
-| DLC | `b962a688044fc013` | 1.11 |
-| DLC | `7b651293d46a6ad1` | 1.11 |
-| DLC | `aff274744c1b8d21` | 1.11 |
-| DLC | `68c2547f60a8d88e` | 1.11 |
-| DLC | `e45c604a3079c028` | 1.11 |
-| DLC | `02f32c6bd9fb7b12` | 1.11 |
-| DLC | `7db512bf7660f652` | 1.11 |
-| DLC | `4e1f1127acf2a5b9` | 1.11 |
-| DLC | `d8f22dc6e9f82108` | 1.11 |
-| DLC | `c077813be6c85ba3` | 1.11 |
-| DLC | `a0a4d017e3bdeb78` | 1.11 |
-| sd | `9708b951942c4e16` | 1.11 |
-| sd | `5732dd6a2bf516b7` | 1.11 |
-| sd_dlc02 | `4d2891e5db0b241b` | 1.11 |
-| sd_dlc02 | `6eb67f72e01b18da` | 1.11 |
-| sd_dlc02 | `8c7164941689dfd3` | 1.11 |
-| sd_dlc02 | `5c6a249bb530c841` | 1.11 |
-| sd_dlc02 | `54ef4868ccacda9e` | 1.11 |
-| sd_dlc02 | `a9c1b3c851ddcc9f` | 1.11 |
-| sd_dlc02 | `66b26a63fe45c057` | 1.11 |
-| sd_dlc02 | `16b957afa8a630c9` | 1.11 |
-| sd_dlc02 | `1932eccefb9d1d5f` | 1.11 |
-| sd_dlc02 | `9d6d8d0e327b2643` | 1.11 |
-| sd_dlc02 | `c8fb5032c8f75c97` | 1.11 |
+| Data3 | 1,660 | 1,660 | 100.00% |
+| DLC | 33,824 | 33,824 | 100.00% |
+| sd | 8,658 | 8,658 | 100.00% |
+| sd_dlc02 | 1,834 | 1,834 | 100.00% |
 
 ## EldenRingNightreign_PC
 [Back to top](#coverage)

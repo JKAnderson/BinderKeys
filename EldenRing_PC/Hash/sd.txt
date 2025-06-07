@@ -6680,6 +6680,7 @@
 /enus/wem/80/805083866.wem
 /enus/wem/80/805380994.wem
 /enus/wem/80/80561272.wem
+/enus/wem/80/805873202.wem
 /enus/wem/80/80587838.wem
 /enus/wem/80/805912362.wem
 /enus/wem/80/806050130.wem
@@ -7092,6 +7093,7 @@
 /enus/wem/85/854859693.wem
 /enus/wem/85/854957501.wem
 /enus/wem/85/85529563.wem
+/enus/wem/85/855407558.wem
 /enus/wem/85/855430276.wem
 /enus/wem/85/855710343.wem
 /enus/wem/85/855801591.wem
