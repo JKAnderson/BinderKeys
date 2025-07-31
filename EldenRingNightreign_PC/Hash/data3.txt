@@ -1087,6 +1087,7 @@
 /chr/c7500_div00.anibnd.dcx
 /chr/c7500_div01.anibnd.dcx
 /chr/c7500_div02.anibnd.dcx
+/chr/c7500_div03.anibnd.dcx
 /chr/c7500_h.texbnd.dcx
 /chr/c7500_l.texbnd.dcx
 /chr/c7510.anibnd.dcx
@@ -1119,8 +1120,14 @@
 /chr/c7540.chrbnd.dcx
 /chr/c7540_div00.anibnd.dcx
 /chr/c7540_div01.anibnd.dcx
+/chr/c7540_div02.anibnd.dcx
 /chr/c7540_h.texbnd.dcx
 /chr/c7540_l.texbnd.dcx
+/chr/c7541.anibnd.dcx
+/chr/c7541.behbnd.dcx
+/chr/c7541.chrbnd.dcx
+/chr/c7541_h.texbnd.dcx
+/chr/c7541_l.texbnd.dcx
 /chr/c7560.anibnd.dcx
 /chr/c7560.behbnd.dcx
 /chr/c7560.chrbnd.dcx

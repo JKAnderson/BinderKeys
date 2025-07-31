@@ -188,6 +188,7 @@
 /action/script/c7521.hks
 /action/script/c7530.hks
 /action/script/c7540.hks
+/action/script/c7541.hks
 /action/script/c7560.hks
 /action/script/c7561.hks
 /action/script/c7570.hks
@@ -514,6 +515,7 @@
 /menu/02_171_lobbyselect.gfx
 /menu/02_200_matching.gfx
 /menu/02_220_nightboss_status.gfx
+/menu/02_221_chaosmatch_status.gfx
 /menu/02_230_matching_selectoption.gfx
 /menu/02_300_archive_base.gfx
 /menu/02_301_archive_top.gfx
@@ -530,6 +532,7 @@
 /menu/02_400_antique.gfx
 /menu/02_410_antique_status_p1.gfx
 /menu/02_411_antique_status_p2.gfx
+/menu/02_412_antique_status_p3.gfx
 /menu/02_420_antiquestandlist.gfx
 /menu/02_430_antique_filterlist.gfx
 /menu/02_440_antiquestandpreset.gfx
@@ -562,6 +565,7 @@
 /menu/05_102_resulthistory.gfx
 /menu/05_105_resultsummary.gfx
 /menu/05_110_reward.gfx
+/menu/05_111_rewardchaosrate.gfx
 /menu/05_900_logo_fromsoft.gfx
 /menu/05_901_logo_bne.gfx
 /menu/05_903_warn_illegalcopy.gfx
@@ -841,6 +845,7 @@
 /param/drawparam/m00_00_0005_commonevent.gparam.dcx
 /param/drawparam/m00_00_0006_commonevent.gparam.dcx
 /param/drawparam/m00_00_0007_commonevent.gparam.dcx
+/param/drawparam/m00_00_0008_commonevent.gparam.dcx
 /param/drawparam/m00_00_0010_weatheroutdoor.gparam.dcx
 /param/drawparam/m00_00_0011_weatheroutdoor.gparam.dcx
 /param/drawparam/m00_00_0015_sessionpattern.gparam.dcx
@@ -951,6 +956,7 @@
 /param/drawparam/m60_00_0440.gparam.dcx
 /param/drawparam/m60_00_0450.gparam.dcx
 /param/drawparam/m60_00_0510.gparam.dcx
+/param/drawparam/m60_00_0640.gparam.dcx
 /param/drawparam/m60_00_0800.gparam.dcx
 /param/drawparam/m60_00_0810.gparam.dcx
 /param/drawparam/m60_00_0820.gparam.dcx
