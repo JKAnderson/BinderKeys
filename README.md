@@ -36,13 +36,14 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 - **Meowmaritus**
 - **Nordgaren**
 - **sekirodubi**
+- **Shion**
 - **TKGP** (Maintainer)
 - **WarpZephyr**
 
 # Coverage
 | Game | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
-| (All) | 372,849 | 378,504 | 98.50% |
+| (All) | 372,866 | 378,521 | 98.50% |
 | [ArmoredCore5_PS3](#armoredcore5_ps3) | 19,392 | 19,972 | 97.09% |
 | [ArmoredCore5_X360](#armoredcore5_x360) | 19,360 | 19,806 | 97.74% |
 | [ArmoredCore6_PC](#armoredcore6_pc) | 37,171 | 37,171 | 100.00% |
@@ -56,7 +57,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | [DarkSouls3_PC](#darksouls3_pc) | 15,701 | 15,701 | 100.00% |
 | [DarkSoulsRemastered_NS](#darksoulsremastered_ns) | 5,919 | 6,005 | 98.56% |
 | [EldenRing_PC](#eldenring_pc) | 130,958 | 130,958 | 100.00% |
-| [EldenRingNightreign_PC](#eldenringnightreign_pc) | 25,314 | 25,314 | 100.00% |
+| [EldenRingNightreign_PC](#eldenringnightreign_pc) | 25,331 | 25,331 | 100.00% |
 | [Sekiro_PC](#sekiro_pc) | 8,752 | 8,765 | 99.85% |
 | [SekiroSoundtrack_PC](#sekirosoundtrack_pc) | 184 | 186 | 98.92% |
 | [SteelBattalionHeavyArmor_X360](#steelbattalionheavyarmor_x360) | 25,959 | 25,959 | 100.00% |
@@ -5848,7 +5849,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | data1 | 12,762 | 12,762 | 100.00% |
 | data2 | 6,519 | 6,519 | 100.00% |
 | data3 | 1,236 | 1,236 | 100.00% |
-| sd | 2,443 | 2,443 | 100.00% |
+| sd | 2,460 | 2,460 | 100.00% |
 
 ## Sekiro_PC
 [Back to top](#coverage)
