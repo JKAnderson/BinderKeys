@@ -2005,6 +2005,8 @@
 /lang/en/text/menu/linehelp_ps3.fmg
 /lang/en/text/menu/linehelp_xbox.fmg
 /lang/en/text/menu/menu.fmg
+/lang/en/text/menu/patchdialog.fmg
+/lang/en/text/menu/patchmenu.fmg
 /lang/en/text/menu/staffroll.fmg
 /lang/en/text/menu/termofservicetext.fmg
 /lang/en/text/menu/welcometips.fmg
@@ -2183,8 +2185,10 @@
 /lang/en/text/mission/missiondefault.emtm
 /lang/en/text/mission/missiondefault.fmg
 /lang/en/text/partsexplain_en.fmg
+/lang/en/text/partsexplain_patch.fmg
 /lang/en/text/partsname_en.fmg
 /lang/en/text/partssubcategory_en.fmg
+/lang/en/text/partssubcategory_patch.fmg
 /lang/fr/menu/assemble.drb
 /lang/fr/menu/betaversion_msg.drb
 /lang/fr/menu/bootlogo.drb
@@ -2236,6 +2240,8 @@
 /lang/fr/text/menu/linehelp_ps3.fmg
 /lang/fr/text/menu/linehelp_xbox.fmg
 /lang/fr/text/menu/menu.fmg
+/lang/fr/text/menu/patchdialog.fmg
+/lang/fr/text/menu/patchmenu.fmg
 /lang/fr/text/menu/staffroll.fmg
 /lang/fr/text/menu/termofservicetext.fmg
 /lang/fr/text/menu/welcometips.fmg
@@ -2417,6 +2423,7 @@
 /lang/fr/text/partsname_fr.fmg
 /lang/fr/text/partssubcategory_fr.fmg
 /lang/fr/text/partssubcategory_jp.fmg
+/lang/fr/text/partssubcategory_patch.fmg
 /lang/ge/menu/assemble.drb
 /lang/ge/menu/betaversion_msg.drb
 /lang/ge/menu/bootlogo.drb
@@ -2467,6 +2474,8 @@
 /lang/ge/text/menu/linehelp_ps3.fmg
 /lang/ge/text/menu/linehelp_xbox.fmg
 /lang/ge/text/menu/menu.fmg
+/lang/ge/text/menu/patchdialog.fmg
+/lang/ge/text/menu/patchmenu.fmg
 /lang/ge/text/menu/staffroll.fmg
 /lang/ge/text/menu/termofservicetext.fmg
 /lang/ge/text/menu/welcometips.fmg
@@ -2649,6 +2658,7 @@
 /lang/ge/text/partsname_ge.fmg
 /lang/ge/text/partssubcategory_ge.fmg
 /lang/ge/text/partssubcategory_jp.fmg
+/lang/ge/text/partssubcategory_patch.fmg
 /lang/it/menu/assemble.drb
 /lang/it/menu/betaversion_msg.drb
 /lang/it/menu/bootlogo.drb
@@ -2699,6 +2709,8 @@
 /lang/it/text/menu/linehelp_ps3.fmg
 /lang/it/text/menu/linehelp_xbox.fmg
 /lang/it/text/menu/menu.fmg
+/lang/it/text/menu/patchdialog.fmg
+/lang/it/text/menu/patchmenu.fmg
 /lang/it/text/menu/staffroll.fmg
 /lang/it/text/menu/termofservicetext.fmg
 /lang/it/text/menu/welcometips.fmg
@@ -2879,6 +2891,7 @@
 /lang/it/text/partsexplain_it.fmg
 /lang/it/text/partsname_it.fmg
 /lang/it/text/partssubcategory_it.fmg
+/lang/it/text/partssubcategory_patch.fmg
 /lang/jp/menu/assemble.drb
 /lang/jp/menu/assemble.tpf
 /lang/jp/menu/betaversion_msg.drb
@@ -2962,6 +2975,8 @@
 /lang/jp/menu/teammemberlist.tpf
 /lang/jp/menu/territory.drb
 /lang/jp/menu/territory.tpf
+/lang/jp/menu/title.drb
+/lang/jp/menu/title.tpf
 /lang/jp/menu/trade.drb
 /lang/jp/menu/trade.tpf
 /lang/jp/menu/trial_title.drb
@@ -3437,6 +3452,8 @@
 /lang/sp/text/menu/linehelp_ps3.fmg
 /lang/sp/text/menu/linehelp_xbox.fmg
 /lang/sp/text/menu/menu.fmg
+/lang/sp/text/menu/patchdialog.fmg
+/lang/sp/text/menu/patchmenu.fmg
 /lang/sp/text/menu/staffroll.fmg
 /lang/sp/text/menu/termofservicetext.fmg
 /lang/sp/text/menu/welcometips.fmg
@@ -3618,6 +3635,7 @@
 /lang/sp/text/partsexplain_sp.fmg
 /lang/sp/text/partsname_sp.fmg
 /lang/sp/text/partssubcategory_jp.fmg
+/lang/sp/text/partssubcategory_patch.fmg
 /lang/sp/text/partssubcategory_sp.fmg
 /material/menu0310_mtd.bnd
 /material/menu0320_mtd.bnd
@@ -5611,6 +5629,7 @@
 /model/ac/parts/leg/lg0330/lg0330.tpf.dcx
 /model/ac/parts/leg/lg0330/lg0330_a.bnd.dcx
 /model/ac/parts/leg/lg0330/lg0330_gt.tpf.dcx
+/model/ac/parts/leg/lg0330/lg0330_l.tpf.dcx
 /model/ac/parts/leg/lg0330/lg0330_m.bnd.dcx
 /model/ac/parts/leg/lg0340/lg0340.tpf.dcx
 /model/ac/parts/leg/lg0340/lg0340_a.bnd.dcx
@@ -6183,6 +6202,12 @@
 /model/ene/e1014/e1014.tpf.dcx
 /model/ene/e1014/e1014_a.bnd.dcx
 /model/ene/e1014/e1014_m.bnd.dcx
+/model/ene/e1018/e1018.tpf.dcx
+/model/ene/e1018/e1018_a.bnd.dcx
+/model/ene/e1018/e1018_m.bnd.dcx
+/model/ene/e1019/e1019.tpf.dcx
+/model/ene/e1019/e1019_a.bnd.dcx
+/model/ene/e1019/e1019_m.bnd.dcx
 /model/ene/e1020/e1020.tpf.dcx
 /model/ene/e1020/e1020_a.bnd.dcx
 /model/ene/e1020/e1020_l.tpf.dcx
@@ -16021,6 +16046,13 @@
 /model/menu/menu1000/menu1000.tpf.dcx
 /model/menu/menu1000/menu1000_a.bnd.dcx
 /model/menu/menu1000/menu1000_m.bnd.dcx
+/model/menu/menu1010/menu1010.tpf.dcx
+/model/menu/menu1010/menu1010_a.bnd.dcx
+/model/menu/menu1010/menu1010_m.bnd.dcx
+/model/menu/menu1030/menu1030.tpf.dcx
+/model/menu/menu1030/menu1030_m.bnd.dcx
+/model/menu/menu1040/menu1040.tpf.dcx
+/model/menu/menu1040/menu1040_m.bnd.dcx
 /model/menu/menu9999/menu9999_a.bnd.dcx
 /model/menusfx/sfx_m.bnd.dcx
 /model/menusfx/sfx_t.tpf.dcx
@@ -19142,6 +19174,8 @@
 /tae/enemy/e1012/own000100.tae
 /tae/enemy/e1013/own000100.tae
 /tae/enemy/e1014/own000100.tae
+/tae/enemy/e1018/own000100.tae
+/tae/enemy/e1019/own000100.tae
 /tae/enemy/e1020/own000100.tae
 /tae/enemy/e1030/own000100.tae
 /tae/enemy/e1031/own000100.tae
@@ -19221,6 +19255,7 @@
 /tae/menu/menu0310/own000100.tae
 /tae/menu/menu1000/own000100.tae
 /tae/menu/menu1020/own000100.tae
+/tae/menu/menu1040/own000100.tae
 /tae/obj/o0001/own000100.tae
 /tae/obj/o0002/own000100.tae
 /tae/obj/o0003/own000100.tae

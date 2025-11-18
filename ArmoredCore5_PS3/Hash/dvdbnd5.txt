@@ -2961,6 +2961,8 @@
 /lang/jp/menu/teammemberlist.tpf
 /lang/jp/menu/territory.drb
 /lang/jp/menu/territory.tpf
+/lang/jp/menu/title.drb
+/lang/jp/menu/title.tpf
 /lang/jp/menu/trade.drb
 /lang/jp/menu/trade.tpf
 /lang/jp/menu/trial_title.drb
@@ -5611,6 +5613,7 @@
 /model/ac/parts/leg/lg0330/lg0330.tpf.dcx
 /model/ac/parts/leg/lg0330/lg0330_a.bnd.dcx
 /model/ac/parts/leg/lg0330/lg0330_gt.tpf.dcx
+/model/ac/parts/leg/lg0330/lg0330_l.tpf.dcx
 /model/ac/parts/leg/lg0330/lg0330_m.bnd.dcx
 /model/ac/parts/leg/lg0340/lg0340.tpf.dcx
 /model/ac/parts/leg/lg0340/lg0340_a.bnd.dcx
