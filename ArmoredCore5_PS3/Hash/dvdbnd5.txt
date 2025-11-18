@@ -2944,6 +2944,7 @@
 /lang/jp/menu/shop.drb
 /lang/jp/menu/shop.tpf
 /lang/jp/menu/sortie.drb
+/lang/jp/menu/sortie.tpf
 /lang/jp/menu/staffroll.drb
 /lang/jp/menu/staffroll.tpf
 /lang/jp/menu/storymission.drb
@@ -2967,7 +2968,9 @@
 /lang/jp/menu/vsresult.drb
 /lang/jp/menu/vsresult.tpf
 /lang/jp/menu/vssortie.drb
+/lang/jp/menu/vssortie.tpf
 /lang/jp/menu/worldtop.drb
+/lang/jp/menu/worldtop.tpf
 /lang/jp/nowload/tex/00_t.bnd
 /lang/jp/nowload/tex/01_t.bnd
 /lang/jp/nowload/tex/02_t.bnd

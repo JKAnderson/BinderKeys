@@ -39,13 +39,14 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 - **Shion**
 - **TKGP** (Maintainer)
 - **WarpZephyr**
+- **wxvu**
 
 # Coverage
 | Game | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
-| (All) | 372,866 | 378,521 | 98.50% |
-| [ArmoredCore5_PS3](#armoredcore5_ps3) | 19,392 | 19,972 | 97.09% |
-| [ArmoredCore5_X360](#armoredcore5_x360) | 19,360 | 19,806 | 97.74% |
+| (All) | 372,872 | 378,521 | 98.50% |
+| [ArmoredCore5_PS3](#armoredcore5_ps3) | 19,395 | 19,972 | 97.11% |
+| [ArmoredCore5_X360](#armoredcore5_x360) | 19,363 | 19,806 | 97.76% |
 | [ArmoredCore6_PC](#armoredcore6_pc) | 37,171 | 37,171 | 100.00% |
 | [ArmoredCoreVerdictDay_PS3](#armoredcoreverdictday_ps3) | 14,943 | 17,168 | 87.03% |
 | [ArmoredCoreVerdictDay_X360](#armoredcoreverdictday_x360) | 14,782 | 16,920 | 87.36% |
@@ -66,7 +67,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 [Back to top](#coverage)
 | Binder | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
-| dvdbnd5 | 19,392 | 19,972 | 97.09% |
+| dvdbnd5 | 19,395 | 19,972 | 97.11% |
 
 ### Hashes Missed
 | Binder | Hash | Sources |
@@ -634,11 +635,9 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5 | `9b1a127d` | BLJM60378<br>NPJB90482 |
 | dvdbnd5 | `27691171` | BLJM60378 |
 | dvdbnd5 | `0586cdc7` | BLJM60378<br>NPJB90482 |
-| dvdbnd5 | `9cb1833b` | BLJM60378<br>NPJB90482 |
 | dvdbnd5 | `80b89570` | BLJM60378<br>NPJB90482 |
 | dvdbnd5 | `a03908b3` | BLJM60378 |
 | dvdbnd5 | `022c31b4` | BLJM60378<br>NPJB90482 |
-| dvdbnd5 | `846473c0` | BLJM60378<br>NPJB90482 |
 | dvdbnd5 | `d0507022` | BLJM60378<br>NPJB90482 |
 | dvdbnd5 | `97803dd8` | BLJM60378 |
 | dvdbnd5 | `37628f59` | BLJM60378<br>NPJB90482 |
@@ -648,7 +647,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5 | `19a67639` | BLJM60378<br>NPJB90482 |
 | dvdbnd5 | `e7cab4a7` | BLJM60378<br>NPJB90482 |
 | dvdbnd5 | `693e50eb` | BLJM60378<br>NPJB90482 |
-| dvdbnd5 | `276a6dec` | BLJM60378<br>NPJB90482 |
 | dvdbnd5 | `6a3754e5` | BLJM60378 |
 | dvdbnd5 | `c8faf03b` | NPJB90482 |
 
@@ -656,7 +654,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 [Back to top](#coverage)
 | Binder | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
-| dvdbnd5 | 19,360 | 19,806 | 97.74% |
+| dvdbnd5 | 19,363 | 19,806 | 97.76% |
 
 ### Hashes Missed
 | Binder | Hash | Sources |
@@ -741,7 +739,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5 | `7c9b1152` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `a25b692e` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `e32f7c03` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
-| dvdbnd5 | `276a6dec` | FS201501J07X11 |
 | dvdbnd5 | `3ccb042c` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `4162022f` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `44445e4f` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
@@ -854,7 +851,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5 | `30007f26` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `daeb4659` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `737a1dd3` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
-| dvdbnd5 | `9cb1833b` | FS201501J07X11 |
 | dvdbnd5 | `90610915` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `9f2bd244` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `84deb408` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
@@ -996,7 +992,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5 | `df469310` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `07c669cd` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `f8b870c4` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
-| dvdbnd5 | `846473c0` | FS201501J07X11 |
 | dvdbnd5 | `e19027f1` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `e4728411` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `8ec2d873` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
