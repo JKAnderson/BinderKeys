@@ -456,6 +456,7 @@
 /event/m51_00_00_00.emevd.dcx
 /event/m51_05_00_00.emevd.dcx
 /event/m51_10_00_00.emevd.dcx
+/event/m51_15_00_00.emevd.dcx
 /event/m52_00_00_00.emevd.dcx
 /event/m52_01_00_00.emevd.dcx
 /event/m52_02_00_00.emevd.dcx
@@ -2450,6 +2451,7 @@
 /script/462010_battle.luabnd.dcx
 /script/463000_battle.luabnd.dcx
 /script/464000_battle.luabnd.dcx
+/script/464100_battle.luabnd.dcx
 /script/465000_battle.luabnd.dcx
 /script/465010_battle.luabnd.dcx
 /script/466000_battle.luabnd.dcx
@@ -2519,6 +2521,7 @@
 /script/750000_battle.luabnd.dcx
 /script/751000_battle.luabnd.dcx
 /script/752000_battle.luabnd.dcx
+/script/752000_logic.luabnd.dcx
 /script/753000_battle.luabnd.dcx
 /script/753000_logic.luabnd.dcx
 /script/754000_battle.luabnd.dcx
@@ -2527,6 +2530,7 @@
 /script/760000_battle.luabnd.dcx
 /script/761000_battle.luabnd.dcx
 /script/762000_battle.luabnd.dcx
+/script/762100_battle.luabnd.dcx
 /script/765000_battle.luabnd.dcx
 /script/766000_battle.luabnd.dcx
 /script/770000_battle.luabnd.dcx
@@ -2682,6 +2686,7 @@
 /sfx/sfxbnd_c4620.ffxbnd.dcx
 /sfx/sfxbnd_c4630.ffxbnd.dcx
 /sfx/sfxbnd_c4640.ffxbnd.dcx
+/sfx/sfxbnd_c4641.ffxbnd.dcx
 /sfx/sfxbnd_c4650.ffxbnd.dcx
 /sfx/sfxbnd_c4660.ffxbnd.dcx
 /sfx/sfxbnd_c4670.ffxbnd.dcx

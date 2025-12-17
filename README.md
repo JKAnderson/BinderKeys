@@ -3,7 +3,7 @@ This repo contains the resources needed to unpack FromSoftware's BinderLight con
 
 The goal of BinderKeys is to collect, organize, and verify the keys and dictionaries for every relevant FromSoftware game in one convenient and platform-agnostic package. They're primarily intended for tool developers, not end-users, although if you know what you're doing you may be able to use them to update older tools with newer information.
 
-If you find this resource useful, you can support me on [Patreon](https://patreon.com/TKGP).
+If you find this resource useful, you can support me on [Ko-fi](https://ko-fi.com/tkgp) or [Patreon](https://patreon.com/TKGP).
 
 # Usage
 The recommended way to include this data in your own project is to add it as a git submodule, for ease of updating and in case of any structural changes.
@@ -45,7 +45,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 # Coverage
 | Game | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
-| (All) | 383,169 | 385,465 | 99.40% |
+| (All) | 383,182 | 385,478 | 99.40% |
 | [ArmoredCore5_PS3](#armoredcore5_ps3) | 19,398 | 19,972 | 97.12% |
 | [ArmoredCore5_X360](#armoredcore5_x360) | 19,398 | 19,806 | 97.94% |
 | [ArmoredCore6_PC](#armoredcore6_pc) | 37,171 | 37,171 | 100.00% |
@@ -59,7 +59,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | [DarkSouls3_PC](#darksouls3_pc) | 15,701 | 15,701 | 100.00% |
 | [DarkSoulsRemastered_NS](#darksoulsremastered_ns) | 5,919 | 6,005 | 98.56% |
 | [EldenRing_PC](#eldenring_pc) | 130,958 | 130,958 | 100.00% |
-| [EldenRingNightreign_PC](#eldenringnightreign_pc) | 32,275 | 32,275 | 100.00% |
+| [EldenRingNightreign_PC](#eldenringnightreign_pc) | 32,288 | 32,288 | 100.00% |
 | [Sekiro_PC](#sekiro_pc) | 8,752 | 8,765 | 99.85% |
 | [SekiroSoundtrack_PC](#sekirosoundtrack_pc) | 184 | 186 | 98.92% |
 | [SteelBattalionHeavyArmor_X360](#steelbattalionheavyarmor_x360) | 25,959 | 25,959 | 100.00% |
@@ -2488,13 +2488,13 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 [Back to top](#coverage)
 | Binder | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
-| data0 | 2,786 | 2,786 | 100.00% |
-| data1 | 17,007 | 17,007 | 100.00% |
+| data0 | 2,791 | 2,791 | 100.00% |
+| data1 | 17,012 | 17,012 | 100.00% |
 | data2 | 7,854 | 7,854 | 100.00% |
 | data3 | 1,563 | 1,563 | 100.00% |
 | dlc01 | 289 | 289 | 100.00% |
-| sd | 2,672 | 2,672 | 100.00% |
-| sd_dlc01 | 104 | 104 | 100.00% |
+| sd | 2,674 | 2,674 | 100.00% |
+| sd_dlc01 | 105 | 105 | 100.00% |
 
 ## Sekiro_PC
 [Back to top](#coverage)

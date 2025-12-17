@@ -37,6 +37,7 @@
 /cs_c6060.bnk
 /cs_c6240.bnk
 /cs_c7610.bnk
+/cs_c7621.bnk
 /cs_c7720.bnk
 /cs_c7930.bnk
 /cs_m16.bnk

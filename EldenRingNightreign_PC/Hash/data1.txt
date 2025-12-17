@@ -4076,6 +4076,8 @@
 /asset/aeg/aeg361/aeg361_909.geombnd.dcx
 /asset/aeg/aeg361/aeg361_952.geombnd.dcx
 /asset/aeg/aeg361/aeg361_953.geombnd.dcx
+/asset/aeg/aeg361/aeg361_990.geombnd.dcx
+/asset/aeg/aeg361/aeg361_991.geombnd.dcx
 /asset/aeg/aeg363/aeg363_000.geombnd.dcx
 /asset/aeg/aeg363/aeg363_000_l.geomhkxbnd.dcx
 /asset/aeg/aeg363/aeg363_001.geombnd.dcx
@@ -4999,6 +5001,7 @@
 /asset/aeg/aeg396/aeg396_070.geombnd.dcx
 /asset/aeg/aeg396/aeg396_080.geombnd.dcx
 /asset/aeg/aeg396/aeg396_090.geombnd.dcx
+/asset/aeg/aeg396/aeg396_351.geombnd.dcx
 /asset/aeg/aeg396/aeg396_900.geombnd.dcx
 /asset/aeg/aeg396/aeg396_920.geombnd.dcx
 /asset/aeg/aeg396/aeg396_960.geombnd.dcx
@@ -13199,6 +13202,8 @@
 /asset/aet/aet396/aet396_095_l.tpf.dcx
 /asset/aet/aet396/aet396_096.tpf.dcx
 /asset/aet/aet396/aet396_096_l.tpf.dcx
+/asset/aet/aet396/aet396_351.tpf.dcx
+/asset/aet/aet396/aet396_351_l.tpf.dcx
 /asset/aet/aet396/aet396_900.tpf.dcx
 /asset/aet/aet396/aet396_900_l.tpf.dcx
 /asset/aet/aet396/aet396_905.tpf.dcx
