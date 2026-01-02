@@ -1201,6 +1201,7 @@
 /model/ene/ene_template/ene_template_a.bnd.dcx
 /model/ene/ene_template/ene_template_m.bnd.dcx
 /model/enecolor/city.tpf.dcx
+/model/enecolor/desert.tpf.dcx
 /model/enecolor/rust.tpf.dcx
 /model/map/ch_mission/ch0090_m3300.msb
 /model/map/ch_mission/ch0101_m3103.msb

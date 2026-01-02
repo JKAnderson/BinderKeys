@@ -5571,6 +5571,10 @@
 /lang/jp/manual/9032.tpf.dcx
 /lang/jp/manual/9041.tpf.dcx
 /lang/jp/manual/9042.tpf.dcx
+/lang/jp/menu/acsis.drb
+/lang/jp/menu/acsis.tpf
+/lang/jp/menu/actest.drb
+/lang/jp/menu/actest.tpf
 /lang/jp/menu/aicompose.drb
 /lang/jp/menu/aicompose.drb.dcx
 /lang/jp/menu/aicompose.tpf
@@ -5770,6 +5774,8 @@
 /lang/jp/menu/trade.drb.dcx
 /lang/jp/menu/trade.tpf
 /lang/jp/menu/trade.tpf.dcx
+/lang/jp/menu/trial.drb
+/lang/jp/menu/trial.tpf
 /lang/jp/menu/trial_title.drb
 /lang/jp/menu/trial_title.tpf
 /lang/jp/menu/unacdesign.drb
@@ -13229,6 +13235,7 @@
 /model/ene/ene_template/ene_template_a.bnd.dcx
 /model/ene/ene_template/ene_template_m.bnd.dcx
 /model/enecolor/city.tpf.dcx
+/model/enecolor/desert.tpf.dcx
 /model/enecolor/rust.tpf.dcx
 /model/filter/dof/dof_t.bnd
 /model/filter/lensflare/lensflare_t.bnd
