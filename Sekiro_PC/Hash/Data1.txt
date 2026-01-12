@@ -153,6 +153,7 @@
 /font/zhotw_std/font.gfx
 /font/zhotw_texteffect/font.gfx
 /menu/01_000_fe.gfx
+/menu/01_000_fe.gfx.365.old
 /menu/01_000_fe_stadia.gfx
 /menu/01_001_fe_soul.gfx
 /menu/01_002_fe_saveicon.gfx
@@ -181,6 +182,7 @@
 /menu/01_910_fade.gfx
 /menu/01_920_movie.gfx
 /menu/01_990_trial_fe.gfx
+/menu/01_990_trial_fe.gfx.3687.old
 /menu/02_000_ingametop.gfx
 /menu/02_031_numselect.gfx
 /menu/02_033_iconhelp.gfx
@@ -320,6 +322,7 @@
 /menu/hi/menu_load_00014.tpf.dcx
 /menu/low/01_common.sblytbnd.dcx
 /menu/low/01_common.tpf.dcx
+/menu/low/01_common.tpf.dcx.3683.old
 /menu/low/05_dummy.tpf.dcx
 /menu/low/mapimage/00_0.tpf.dcx
 /menu/low/mapimage/00_1.tpf.dcx
@@ -346,16 +349,20 @@
 /menu/low/mapimage/06_2.tpf.dcx
 /menu/low/mapimage/06_3.tpf.dcx
 /menu/low/mapimage/07_0.tpf.dcx
+/menu/low/mapimage/07_0.tpf.dcx.3679.old
 /menu/low/mapimage/07_1.tpf.dcx
 /menu/low/mapimage/07_2.tpf.dcx
+/menu/low/mapimage/07_2.tpf.dcx.355.old
 /menu/low/mapimage/07_3.tpf.dcx
 /menu/low/mapimage/08_0.tpf.dcx
 /menu/low/mapimage/08_1.tpf.dcx
 /menu/low/mapimage/08_2.tpf.dcx
 /menu/low/mapimage/08_3.tpf.dcx
 /menu/low/mapimage/09_0.tpf.dcx
+/menu/low/mapimage/09_0.tpf.dcx.353.old
 /menu/low/mapimage/09_1.tpf.dcx
 /menu/low/mapimage/09_2.tpf.dcx
+/menu/low/mapimage/09_2.tpf.dcx.349.old
 /menu/low/mapimage/09_3.tpf.dcx
 /menu/low/menu_boss_11000.tpf.dcx
 /menu/low/menu_boss_11010.tpf.dcx
@@ -441,6 +448,9 @@
 /other/movtae.movtae.dcx
 /other/network/client_secret.key
 /other/network/server_public.key
+/other/system.bin.dcx
+/other/system_as.bin.dcx
+/other/system_jp.bin.dcx
 /other/systex.tpf.dcx
 /param/drawparam/default.gparam.dcx
 /param/drawparam/dying2begin.gparam.dcx

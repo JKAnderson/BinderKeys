@@ -832,6 +832,7 @@
 /obj/o118302.objbnd.dcx
 /obj/o118303.objbnd.dcx
 /obj/o118400.objbnd.dcx
+/obj/o118400.objbnd.dcx.449.old
 /obj/o118500.objbnd.dcx
 /obj/o118600.objbnd.dcx
 /obj/o118900.objbnd.dcx
@@ -1336,6 +1337,7 @@
 /obj/o965000.objbnd.dcx
 /obj/o965100.objbnd.dcx
 /obj/o965200.objbnd.dcx
+/obj/o965200.objbnd.dcx.381.old
 /obj/o965210.objbnd.dcx
 /obj/o965220.objbnd.dcx
 /obj/o965300.objbnd.dcx
