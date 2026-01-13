@@ -39,6 +39,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 - **sekirodubi**
 - **Shion**
 - **TKGP** (Maintainer)
+- **tremwil**
 - **WarpZephyr**
 - **wxvu**
 

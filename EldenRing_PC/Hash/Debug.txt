@@ -704,6 +704,7 @@
 /testdata/event/m99_99_18_03.emeld.dcx
 /testdata/event/m99_99_18_04.emeld.dcx
 /testdata/frontserverleaf_gr.address
+/testdata/hamaribusterlogreport.properties
 /testdata/hamaribusterlogsuppress.properties
 /testdata/idname/assetlist.csv
 /testdata/idname/chrlist.csv
@@ -2838,6 +2839,7 @@
 /testdata/sound/aeg995_000.txt
 /testdata/sound/aeg999_004.txt
 /testdata/sound/aeg999_006.txt
+/testdata/sound/cs_4302.txt
 /testdata/sound/cs_c0110.txt
 /testdata/sound/cs_c1010.txt
 /testdata/sound/cs_c2010.txt
@@ -3281,3 +3283,8 @@
 /testdata/textlist/debugbootmenu.textlist
 /testdata/textlist/modelviewer.textlist
 /testdata/textlist/moduletest.textlist
+/testdata/vsperfmon/processlist.txt
+/testdata/vsperfmon/vsperfcmd.bat
+/testdata/vsperfmon/vsperfcmd_concurrency.bat
+/testdata/vsperfmon/vsperfcmd_onoff.bat
+/testdata/vsperfmon/vsperfcmd_session.bat
