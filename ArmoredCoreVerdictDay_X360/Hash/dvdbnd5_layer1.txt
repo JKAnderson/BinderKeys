@@ -1201,7 +1201,9 @@
 /model/ene/ene_template/ene_template_a.bnd.dcx
 /model/ene/ene_template/ene_template_m.bnd.dcx
 /model/enecolor/city.tpf.dcx
+/model/enecolor/city_t.bnd
 /model/enecolor/desert.tpf.dcx
+/model/enecolor/desert_t.bnd
 /model/enecolor/rust.tpf.dcx
 /model/map/ch_mission/ch0090_m3300.msb
 /model/map/ch_mission/ch0101_m3103.msb
@@ -1296,12 +1298,14 @@
 /model/map/m3101/m3101.msb
 /model/map/m3101/m3101_aitest_hys.msb
 /model/map/m3101/m3101_arena.msb
+/model/map/m3101/m3101_enemy.msb
 /model/map/m3101/m3101_htdcx.bnd
 /model/map/m3101/m3101_l.tpf.dcx
 /model/map/m3101/m3101_m.dcx.bnd
 /model/map/m3101/m3101_map.msb
 /model/map/m3103/m3103.msb
 /model/map/m3103/m3103_arena.msb
+/model/map/m3103/m3103_ch0101.msb
 /model/map/m3103/m3103_htdcx.bnd
 /model/map/m3103/m3103_l.tpf.dcx
 /model/map/m3103/m3103_m.dcx.bnd
@@ -1325,6 +1329,7 @@
 /model/map/m3107/m3107_map.msb
 /model/map/m3110/m3110.msb
 /model/map/m3110/m3110_arena.msb
+/model/map/m3110/m3110_ch0501.msb
 /model/map/m3110/m3110_htdcx.bnd
 /model/map/m3110/m3110_l.tpf.dcx
 /model/map/m3110/m3110_m.dcx.bnd
@@ -1350,9 +1355,11 @@
 /model/map/m3200/m3200_map.msb
 /model/map/m3201/m3201.msb
 /model/map/m3201/m3201_arena.msb
+/model/map/m3201/m3201_ch0503.msb
 /model/map/m3201/m3201_map.msb
 /model/map/m3202/m3202.msb
 /model/map/m3202/m3202_arena.msb
+/model/map/m3202/m3202_ch0401.msb
 /model/map/m3202/m3202_map.msb
 /model/map/m3203/m3203.msb
 /model/map/m3203/m3203_arena.msb
@@ -1407,6 +1414,7 @@
 /model/map/m3306/m3306_map.msb
 /model/map/m3310/m3310.msb
 /model/map/m3310/m3310_arena.msb
+/model/map/m3310/m3310_ch0202.msb
 /model/map/m3310/m3310_htdcx.bnd
 /model/map/m3310/m3310_l.tpf.dcx
 /model/map/m3310/m3310_m.dcx.bnd
@@ -1431,12 +1439,14 @@
 /model/map/m3400/m3400_m.dcx.bnd
 /model/map/m3400/m3400_map.msb
 /model/map/m3401/m3401.msb
+/model/map/m3401/m3401_ch0701.msb
 /model/map/m3401/m3401_map.msb
 /model/map/m3402/m3402.msb
 /model/map/m3402/m3402_arena.msb
 /model/map/m3402/m3402_map.msb
 /model/map/m3403/m3403.msb
 /model/map/m3403/m3403_arena.msb
+/model/map/m3403/m3403_ch0204.msb
 /model/map/m3403/m3403_map.msb
 /model/map/m3410/m3410.msb
 /model/map/m3410/m3410_arena.msb
@@ -1447,6 +1457,7 @@
 /model/map/m3411/m3411.msb
 /model/map/m3411/m3411_map.msb
 /model/map/m3420/m3420.msb
+/model/map/m3420/m3420_ch0601.msb
 /model/map/m3420/m3420_htdcx.bnd
 /model/map/m3420/m3420_l.tpf.dcx
 /model/map/m3420/m3420_m.dcx.bnd
@@ -1463,6 +1474,7 @@
 /model/map/m3500/m3500_map.msb
 /model/map/m3501/m3501.msb
 /model/map/m3501/m3501_arena.msb
+/model/map/m3501/m3501_ch0302.msb
 /model/map/m3501/m3501_map.msb
 /model/map/m3510/m3510.msb
 /model/map/m3510/m3510_arena.msb
@@ -1472,6 +1484,7 @@
 /model/map/m3510/m3510_map.msb
 /model/map/m3520/m3520.msb
 /model/map/m3520/m3520_arena.msb
+/model/map/m3520/m3520_ch0403.msb
 /model/map/m3520/m3520_htdcx.bnd
 /model/map/m3520/m3520_l.tpf.dcx
 /model/map/m3520/m3520_m.dcx.bnd
@@ -1493,6 +1506,7 @@
 /model/map/m3530/m3530_map.msb
 /model/map/m3600/m3600.msb
 /model/map/m3600/m3600_arena.msb
+/model/map/m3600/m3600_ch0602.msb
 /model/map/m3600/m3600_htdcx.bnd
 /model/map/m3600/m3600_l.tpf.dcx
 /model/map/m3600/m3600_m.dcx.bnd
@@ -1504,8 +1518,10 @@
 /model/map/m3602/m3602_arena.msb
 /model/map/m3602/m3602_map.msb
 /model/map/m3603/m3603.msb
+/model/map/m3603/m3603_ch0404.msb
 /model/map/m3603/m3603_map.msb
 /model/map/m3610/m3610.msb
+/model/map/m3610/m3610_ch0703.msb
 /model/map/m3610/m3610_htdcx.bnd
 /model/map/m3610/m3610_l.tpf.dcx
 /model/map/m3610/m3610_m.dcx.bnd
@@ -1531,6 +1547,7 @@
 /model/map/m3700/m3700_map.msb
 /model/map/m3710/m3710.msb
 /model/map/m3710/m3710_arena.msb
+/model/map/m3710/m3710_ch0502.msb
 /model/map/m3710/m3710_htdcx.bnd
 /model/map/m3710/m3710_l.tpf.dcx
 /model/map/m3710/m3710_m.dcx.bnd
