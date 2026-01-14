@@ -150,6 +150,7 @@
 /bind/mission/mission_6150.bnd
 /bind/mission/mission_6160.bnd
 /bind/mission/mission_6170.bnd
+/bind/mission/mission_9999.bnd
 /custommap/5001_eneset_01.layout
 /custommap/5001_eneset_02.layout
 /custommap/5001_eneset_03.layout
@@ -3024,6 +3025,7 @@
 /lang/jp/menu/copyrightlogo_xbox.tpf
 /lang/jp/menu/custommapedit.drb
 /lang/jp/menu/custommapedit.tpf
+/lang/jp/menu/dataimport.drb
 /lang/jp/menu/debriefing.drb
 /lang/jp/menu/debriefing.tpf
 /lang/jp/menu/design.drb
@@ -3057,6 +3059,8 @@
 /lang/jp/menu/matchbriefing.tpf
 /lang/jp/menu/menusystem.drb
 /lang/jp/menu/menusystem.tpf
+/lang/jp/menu/menutop.drb
+/lang/jp/menu/menutop.tpf
 /lang/jp/menu/mercenarycontractreport.drb
 /lang/jp/menu/mercenarycontractreport.tpf
 /lang/jp/menu/mercenaryentry.drb
@@ -3112,6 +3116,20 @@
 /lang/jp/nowload/tex/02_t.bnd
 /lang/jp/nowload/tex/03_t.bnd
 /lang/jp/nowload/tex/04_t.bnd
+/lang/jp/nowload/tex/05_t.bnd
+/lang/jp/nowload/tex/06_t.bnd
+/lang/jp/nowload/tex/07_t.bnd
+/lang/jp/nowload/tex/08_t.bnd
+/lang/jp/nowload/tex/09_t.bnd
+/lang/jp/nowload/tex/10_t.bnd
+/lang/jp/nowload/tex/11_t.bnd
+/lang/jp/nowload/tex/12_t.bnd
+/lang/jp/nowload/tex/13_t.bnd
+/lang/jp/nowload/tex/14_t.bnd
+/lang/jp/nowload/tex/15_t.bnd
+/lang/jp/nowload/tex/16_t.bnd
+/lang/jp/nowload/tex/17_t.bnd
+/lang/jp/nowload/tex/18_t.bnd
 /lang/jp/param/acassemblydrawing.bin
 /lang/jp/param/acprofileinfo.bin
 /lang/jp/param/actextinfo.bin
@@ -6990,8 +7008,11 @@
 /model/filter/spotlight/spotlight_t.bnd
 /model/filter/tvfilter/tvfilter_t.bnd
 /model/image/camouflage/camouflage_t.bnd
+/model/image/im0000/im0000_t.bnd
 /model/map/ingamegarage/ingamegarage.tpf.dcx
 /model/map/ingamegarage/ingamegarage_env.msb
+/model/map/ingamegarage/ingamegarage_htdcx.bnd
+/model/map/ingamegarage/ingamegarage_l.tpf.dcx
 /model/map/ingamegarage/ingamegaragemenu0300_env.msb
 /model/map/ingamegarage/ingamegaragemenu0310_env.msb
 /model/map/ingamegarage/ingamegaragemenu0320_env.msb
@@ -19180,6 +19201,7 @@
 /system/sys_xbox_debug.properties
 /system/sys_xbox_master.properties
 /system/sys_xbox_network.properties
+/system/trial_acv.ini
 /tae/ac/action_ow_disarm/own000100.tae
 /tae/ac/action_ow_disarm/own001100.tae
 /tae/ac/action_ow_disarm/own001200.tae

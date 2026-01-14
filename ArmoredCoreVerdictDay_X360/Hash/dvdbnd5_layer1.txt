@@ -1274,6 +1274,8 @@
 /model/map/ch_mission/ch3792_m3740.msb
 /model/map/ingamegarage/ingamegarage.tpf.dcx
 /model/map/ingamegarage/ingamegarage_env.msb
+/model/map/ingamegarage/ingamegarage_htdcx.bnd
+/model/map/ingamegarage/ingamegarage_l.tpf.dcx
 /model/map/ingamegarage/ingamegaragemenu0300_env.msb
 /model/map/ingamegarage/ingamegaragemenu0310_env.msb
 /model/map/ingamegarage/ingamegaragemenu0320_env.msb

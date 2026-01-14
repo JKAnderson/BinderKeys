@@ -5590,6 +5590,8 @@
 /lang/jp/menu/personalinfo.tpf.dcx
 /lang/jp/menu/pilot.drb.dcx
 /lang/jp/menu/pilot.tpf.dcx
+/lang/jp/menu/practice.drb.dcx
+/lang/jp/menu/practice.tpf.dcx
 /lang/jp/menu/ranking.drb.dcx
 /lang/jp/menu/ranking.tpf.dcx
 /lang/jp/menu/rightnotation_ps3.drb.dcx
@@ -5606,6 +5608,8 @@
 /lang/jp/menu/staffroll.tpf.dcx
 /lang/jp/menu/storymission.drb.dcx
 /lang/jp/menu/storymission.tpf.dcx
+/lang/jp/menu/supportai.drb.dcx
+/lang/jp/menu/supportai.tpf.dcx
 /lang/jp/menu/system.drb.dcx
 /lang/jp/menu/system.tpf.dcx
 /lang/jp/menu/systemoption.drb.dcx
@@ -7304,6 +7308,8 @@
 /model/ac/motion/ow_motion/ow6010_acv_2/ow6010_acv_2_la.bnd.dcx
 /model/ac/motion/ow_motion/ow6010_acv_2h/ow6010_acv_2h_a.bnd.dcx
 /model/ac/motion/ow_motion/ow6010_acv_2h/ow6010_acv_2h_la.bnd.dcx
+/model/ac/motion/ow_motion/ow6010_acv_2l/ow6010_acv_2l_a.bnd.dcx
+/model/ac/motion/ow_motion/ow6010_acv_2l/ow6010_acv_2l_la.bnd.dcx
 /model/ac/motion/ow_motion/ow6010_acv_2r/ow6010_acv_2r_a.bnd.dcx
 /model/ac/motion/ow_motion/ow6010_acv_2r/ow6010_acv_2r_la.bnd.dcx
 /model/ac/motion/ow_motion/ow6010_acv_4/ow6010_acv_4_a.bnd.dcx
@@ -12058,6 +12064,7 @@
 /model/filter/spotlight/spotlight_t.bnd
 /model/filter/tvfilter/tvfilter_t.bnd
 /model/image/camouflage/camouflage_t.bnd
+/model/image/im0000/im0000_t.bnd
 /model/menu/menu0100/menu0100.tpf.dcx
 /model/menu/menu0100/menu0100_m.bnd.dcx
 /model/menu/menu0101/menu0101.tpf.dcx
@@ -12959,6 +12966,7 @@
 /system/sys_xbox_master.properties
 /system/sys_xbox_network.properties
 /system/sys_xbox_trial.properties
+/system/trial_acv.ini
 /tae/ac/action_ow_disarm/own000100.tae
 /tae/ac/action_ow_disarm/own001100.tae
 /tae/ac/action_ow_disarm/own001200.tae

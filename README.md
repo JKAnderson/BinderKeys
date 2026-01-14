@@ -46,12 +46,12 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 # Coverage
 | Game | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
-| (All) | 384,163 | 385,478 | 99.65% |
-| [ArmoredCore5_PS3](#armoredcore5_ps3) | 19,751 | 19,972 | 98.89% |
-| [ArmoredCore5_X360](#armoredcore5_x360) | 19,553 | 19,806 | 98.72% |
+| (All) | 384,301 | 385,478 | 99.69% |
+| [ArmoredCore5_PS3](#armoredcore5_ps3) | 19,777 | 19,972 | 99.02% |
+| [ArmoredCore5_X360](#armoredcore5_x360) | 19,575 | 19,806 | 98.83% |
 | [ArmoredCore6_PC](#armoredcore6_pc) | 37,171 | 37,171 | 100.00% |
-| [ArmoredCoreVerdictDay_PS3](#armoredcoreverdictday_ps3) | 16,747 | 17,168 | 97.54% |
-| [ArmoredCoreVerdictDay_X360](#armoredcoreverdictday_x360) | 16,588 | 16,920 | 98.03% |
+| [ArmoredCoreVerdictDay_PS3](#armoredcoreverdictday_ps3) | 16,827 | 17,168 | 98.01% |
+| [ArmoredCoreVerdictDay_X360](#armoredcoreverdictday_x360) | 16,598 | 16,920 | 98.09% |
 | [DarkSouls_PC](#darksouls_pc) | 6,244 | 6,244 | 100.00% |
 | [DarkSouls_PS3](#darksouls_ps3) | 6,697 | 6,697 | 100.00% |
 | [DarkSouls_X360](#darksouls_x360) | 6,332 | 6,332 | 100.00% |
@@ -69,12 +69,11 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 [Back to top](#coverage)
 | Binder | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
-| dvdbnd5 | 19,751 | 19,972 | 98.89% |
+| dvdbnd5 | 19,777 | 19,972 | 99.02% |
 
 ### Hashes Missed
 | Binder | Hash | Sources |
 |---|---:|---|
-| dvdbnd5 | `c5e63d1b` | BLES01440<br>BLUS30516<br>BLJM60378<br>NPJB90482 |
 | dvdbnd5 | `1acc0055` | BLES01440<br>BLUS30516<br>BLJM60378<br>NPJB90482 |
 | dvdbnd5 | `e59f2b51` | BLES01440<br>BLUS30516<br>BLJM60378 |
 | dvdbnd5 | `4cec3e0f` | BLES01440<br>BLUS30516<br>BLJM60378 |
@@ -113,13 +112,10 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5 | `af6f2199` | BLES01440<br>BLUS30516<br>BLJM60378<br>NPJB90482 |
 | dvdbnd5 | `34e65824` | BLES01440<br>BLUS30516<br>BLJM60378 |
 | dvdbnd5 | `9060f324` | BLES01440<br>BLUS30516<br>BLJM60378 |
-| dvdbnd5 | `e4f41462` | BLES01440<br>BLUS30516<br>BLJM60378<br>NPJB90482 |
 | dvdbnd5 | `b1251e33` | BLES01440<br>BLUS30516<br>BLJM60378 |
 | dvdbnd5 | `6f685c93` | BLES01440<br>BLUS30516<br>BLJM60378 |
-| dvdbnd5 | `7c9aca2e` | BLES01440<br>BLUS30516<br>BLJM60378<br>NPJB90482 |
 | dvdbnd5 | `af6f0ba8` | BLES01440<br>BLUS30516<br>BLJM60378<br>NPJB90482 |
 | dvdbnd5 | `91530b54` | BLES01440<br>BLUS30516<br>BLJM60378 |
-| dvdbnd5 | `bcb2eb23` | BLES01440<br>BLUS30516<br>BLJM60378<br>NPJB90482 |
 | dvdbnd5 | `52850f2a` | BLES01440<br>BLUS30516<br>BLJM60378 |
 | dvdbnd5 | `6bf96e8b` | BLES01440<br>BLUS30516<br>BLJM60378<br>NPJB90482 |
 | dvdbnd5 | `40dc2922` | BLES01440<br>BLUS30516<br>BLJM60378 |
@@ -180,7 +176,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5 | `6badb4ff` | BLES01440<br>BLUS30516<br>BLJM60378 |
 | dvdbnd5 | `dbd2bb81` | BLES01440<br>BLUS30516<br>BLJM60378<br>NPJB90482 |
 | dvdbnd5 | `5a254e12` | BLES01440<br>BLUS30516<br>BLJM60378 |
-| dvdbnd5 | `7c9a74e4` | BLES01440<br>BLUS30516<br>BLJM60378<br>NPJB90482 |
 | dvdbnd5 | `7c9b2743` | BLES01440<br>BLUS30516<br>BLJM60378 |
 | dvdbnd5 | `dbd2a590` | BLES01440<br>BLUS30516<br>BLJM60378<br>NPJB90482 |
 | dvdbnd5 | `5a253821` | BLES01440<br>BLUS30516<br>BLJM60378 |
@@ -197,7 +192,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5 | `b5803e79` | BLES01440<br>BLUS30516<br>BLJM60378<br>NPJB90482 |
 | dvdbnd5 | `c1413f19` | BLES01440<br>BLUS30516<br>BLJM60378 |
 | dvdbnd5 | `cfff33c9` | BLES01440<br>BLUS30516<br>BLJM60378<br>NPJB90482 |
-| dvdbnd5 | `2570c871` | BLES01440<br>BLUS30516<br>BLJM60378<br>NPJB90482 |
 | dvdbnd5 | `f8fd4c43` | BLES01440<br>BLUS30516<br>BLJM60378<br>NPJB90482 |
 | dvdbnd5 | `04f0169c` | BLES01440<br>BLUS30516<br>BLJM60378<br>NPJB90482 |
 | dvdbnd5 | `87ede12b` | BLES01440<br>BLUS30516<br>BLJM60378 |
@@ -235,7 +229,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5 | `db99899f` | BLES01440<br>BLUS30516<br>BLJM60378<br>NPJB90482 |
 | dvdbnd5 | `171347bf` | BLES01440<br>BLUS30516<br>BLJM60378 |
 | dvdbnd5 | `2c81dacf` | BLES01440<br>BLUS30516<br>BLJM60378<br>NPJB90482 |
-| dvdbnd5 | `82b82261` | BLES01440<br>BLUS30516<br>BLJM60378<br>NPJB90482 |
 | dvdbnd5 | `7c61f561` | BLES01440<br>BLUS30516<br>BLJM60378 |
 | dvdbnd5 | `db9973ae` | BLES01440<br>BLUS30516<br>BLJM60378<br>NPJB90482 |
 | dvdbnd5 | `f244988d` | BLES01440<br>BLUS30516<br>BLJM60378<br>NPJB90482 |
@@ -245,7 +238,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5 | `7c61df70` | BLES01440<br>BLUS30516<br>BLJM60378 |
 | dvdbnd5 | `45456414` | BLES01440<br>BLUS30516<br>BLJM60378<br>NPJB90482 |
 | dvdbnd5 | `49405b8e` | BLES01440<br>BLUS30516<br>BLJM60378 |
-| dvdbnd5 | `bcb3406d` | BLES01440<br>BLUS30516<br>BLJM60378<br>NPJB90482 |
 | dvdbnd5 | `9a5fc5a5` | BLES01440<br>BLUS30516<br>BLJM60378 |
 | dvdbnd5 | `f5294712` | BLES01440<br>BLUS30516<br>BLJM60378 |
 | dvdbnd5 | `f235493a` | BLES01440<br>BLUS30516<br>BLJM60378<br>NPJB90482 |
@@ -255,7 +247,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5 | `026be920` | BLES01440<br>BLUS30516<br>BLJM60378 |
 | dvdbnd5 | `e725f34b` | BLES01440<br>BLUS30516<br>BLJM60378 |
 | dvdbnd5 | `b15e5015` | BLES01440<br>BLUS30516<br>BLJM60378 |
-| dvdbnd5 | `f99b7187` | BLES01440<br>BLUS30516<br>BLJM60378<br>NPJB90482 |
 | dvdbnd5 | `d6b2453b` | BLES01440<br>BLUS30516<br>BLJM60378 |
 | dvdbnd5 | `55c89b0c` | BLES01440<br>BLUS30516<br>BLJM60378 |
 | dvdbnd5 | `d4f726a5` | BLES01440<br>BLUS30516<br>BLJM60378<br>NPJB90482 |
@@ -275,32 +266,15 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5 | `818a3bb5` | BLES01440<br>BLUS30516<br>BLJM60378 |
 | dvdbnd5 | `de058c7a` | BLES01440<br>BLUS30516<br>BLJM60378 |
 | dvdbnd5 | `bc24a7c2` | BLES01440<br>BLUS30516<br>BLJM60378<br>NPJB90482 |
-| dvdbnd5 | `4edcd3de` | BLJM60378<br>NPJB90482 |
-| dvdbnd5 | `9e74ae90` | BLJM60378<br>NPJB90482 |
-| dvdbnd5 | `4c8d405b` | BLJM60378<br>NPJB90482 |
-| dvdbnd5 | `9b1a127d` | BLJM60378<br>NPJB90482 |
 | dvdbnd5 | `27691171` | BLJM60378 |
-| dvdbnd5 | `0586cdc7` | BLJM60378<br>NPJB90482 |
-| dvdbnd5 | `80b89570` | BLJM60378<br>NPJB90482 |
 | dvdbnd5 | `a03908b3` | BLJM60378 |
-| dvdbnd5 | `022c31b4` | BLJM60378<br>NPJB90482 |
-| dvdbnd5 | `d0507022` | BLJM60378<br>NPJB90482 |
-| dvdbnd5 | `97803dd8` | BLJM60378 |
-| dvdbnd5 | `37628f59` | BLJM60378<br>NPJB90482 |
-| dvdbnd5 | `b2945702` | BLJM60378<br>NPJB90482 |
-| dvdbnd5 | `3407f346` | BLJM60378<br>NPJB90482 |
-| dvdbnd5 | `6c98ecfe` | BLJM60378<br>NPJB90482 |
-| dvdbnd5 | `19a67639` | BLJM60378<br>NPJB90482 |
-| dvdbnd5 | `e7cab4a7` | BLJM60378<br>NPJB90482 |
-| dvdbnd5 | `693e50eb` | BLJM60378<br>NPJB90482 |
 | dvdbnd5 | `6a3754e5` | BLJM60378 |
-| dvdbnd5 | `c8faf03b` | NPJB90482 |
 
 ## ArmoredCore5_X360
 [Back to top](#coverage)
 | Binder | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
-| dvdbnd5 | 19,553 | 19,806 | 98.72% |
+| dvdbnd5 | 19,575 | 19,806 | 98.83% |
 
 ### Hashes Missed
 | Binder | Hash | Sources |
@@ -316,7 +290,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5 | `4cedfe6f` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `5d87a090` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `dc595f81` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
-| dvdbnd5 | `9e74ae90` | FS201501J07X11 |
 | dvdbnd5 | `40dc2922` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `d6228f1c` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `4cee1460` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
@@ -331,7 +304,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5 | `5a834f1d` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `818a3bb5` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `818a51a6` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
-| dvdbnd5 | `0586cdc7` | FS201501J07X11 |
 | dvdbnd5 | `b5803e79` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `e3be78b8` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `ada82927` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
@@ -340,14 +312,12 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5 | `cdcc77fa` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `e3a1dfc7` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `e725dd5a` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
-| dvdbnd5 | `d0507022` | FS201501J07X11 |
 | dvdbnd5 | `8590bf47` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `6bf96e8b` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `e725f34b` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `e38546d6` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `687b6648` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `5a253821` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
-| dvdbnd5 | `bcb3406d` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `5a254e12` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `e368ade5` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `9152f563` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
@@ -361,7 +331,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5 | `a25b692e` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `e32f7c03` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `7c9b2743` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
-| dvdbnd5 | `37628f59` | FS201501J07X11 |
 | dvdbnd5 | `81a294a7` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `8d22e9b2` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `7c553b97` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
@@ -389,15 +358,12 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5 | `ca1a44a2` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `694bada2` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `4943a0e8` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
-| dvdbnd5 | `e4f41462` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `694bc393` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
-| dvdbnd5 | `693e50eb` | FS201501J07X11 |
 | dvdbnd5 | `8063cacb` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `89815999` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `de058c7a` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `a107db04` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `4036b65a` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
-| dvdbnd5 | `bcb2eb23` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `776116d8` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `db96dbff` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `db7a430e` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
@@ -408,7 +374,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5 | `34e65824` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `db41112c` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `c448723a` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
-| dvdbnd5 | `9b1a127d` | FS201501J07X11 |
 | dvdbnd5 | `3994d414` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `db24783b` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `a03908b3` | FS201501J07X11 |
@@ -434,7 +399,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5 | `a2a3fb4f` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `7b412d9d` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `9ef28a71` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
-| dvdbnd5 | `022c31b4` | FS201501J07X11 |
 | dvdbnd5 | `bd30206c` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `16da15dd` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `dab21477` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
@@ -443,7 +407,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5 | `f878613e` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `c7bafe1f` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `bc3d8306` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
-| dvdbnd5 | `2570c871` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `fd198043` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `d5305887` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `1acc0055` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
@@ -465,8 +428,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5 | `e59f2b51` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `758d45be` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `87edf71c` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
-| dvdbnd5 | `3407f346` | FS201501J07X11 |
-| dvdbnd5 | `e7cab4a7` | FS201501J07X11 |
 | dvdbnd5 | `c3c5b821` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `37f280b0` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `758d5baf` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
@@ -480,7 +441,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5 | `7c9adf9e` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `c99e921f` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `ea4a81bc` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
-| dvdbnd5 | `4edcd3de` | FS201501J07X11 |
 | dvdbnd5 | `964fa3cc` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `14f9aba2` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `4190abc4` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
@@ -494,7 +454,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5 | `f244988d` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `64adefed` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `6ae7a53a` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
-| dvdbnd5 | `c5e63d1b` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `09a4479e` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `9a5fc5a5` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `dfb8f6d4` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
@@ -504,11 +463,9 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5 | `c1413f19` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `df9c5de3` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `6474be0b` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
-| dvdbnd5 | `80b89570` | FS201501J07X11 |
 | dvdbnd5 | `c3c562d7` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `df7fc4f2` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `6badb4ff` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
-| dvdbnd5 | `4c8d405b` | FS201501J07X11 |
 | dvdbnd5 | `df632c01` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `df469310` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `07c669cd` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
@@ -518,10 +475,8 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5 | `df0d612e` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `4362b770` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `b15e6606` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
-| dvdbnd5 | `7c9a74e4` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `1a17c985` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `def0c83d` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
-| dvdbnd5 | `b2945702` | FS201501J07X11 |
 | dvdbnd5 | `b1251e33` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `ded42f4c` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `e96a6989` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
@@ -533,13 +488,10 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5 | `2d86cdb7` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `1e682e51` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `6d9574d6` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
-| dvdbnd5 | `19a67639` | FS201501J07X11 |
-| dvdbnd5 | `f99b7187` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `394c761a` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `b5a9e626` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `55c89b0c` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `b5a9fc17` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
-| dvdbnd5 | `6c98ecfe` | FS201501J07X11 |
 | dvdbnd5 | `2589711b` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `0348d575` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
 | dvdbnd5 | `f235493a` | FS201501J07X11<br>NM212701A01X11<br>NM213101E03X11<br>NM213201J01X11 |
@@ -573,7 +525,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 [Back to top](#coverage)
 | Binder | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
-| dvdbnd5_layer0 | 16,747 | 17,168 | 97.54% |
+| dvdbnd5_layer0 | 16,827 | 17,168 | 98.01% |
 
 ### Hashes Missed
 | Binder | Hash | Sources |
@@ -592,7 +544,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5_layer0 | `799bde7d` | BLES01898<br>BLJM61014<br>BLUS31194<br>NPJB90593 |
 | dvdbnd5_layer0 | `f4048fe4` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `5d4e58bd` | BLES01898<br>BLJM61014<br>BLUS31194 |
-| dvdbnd5_layer0 | `2570c871` | BLES01898<br>BLJM61014<br>BLUS31194<br>NPJB90593 |
 | dvdbnd5_layer0 | `c548d09e` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `ea4a6bcb` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `88e08de9` | BLES01898<br>BLJM61014<br>BLUS31194<br>NPJB90593 |
@@ -611,7 +562,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5_layer0 | `5a834f1d` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `4362b770` | BLES01898<br>BLJM61014<br>BLUS31194<br>NPJB90593 |
 | dvdbnd5_layer0 | `3550d37e` | BLES01898<br>BLJM61014<br>BLUS31194<br>NPJB90593 |
-| dvdbnd5_layer0 | `8ab70fff` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `af6f2199` | BLES01898<br>BLJM61014<br>BLUS31194<br>NPJB90593 |
 | dvdbnd5_layer0 | `70b6485b` | BLES01898<br>BLJM61014<br>BLUS31194<br>NPJB90593 |
 | dvdbnd5_layer0 | `651ddeff` | BLES01898<br>BLJM61014<br>BLUS31194 |
@@ -668,7 +618,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5_layer0 | `c23dacdb` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `ada82927` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `2da5cd92` | BLES01898<br>BLJM61014<br>BLUS31194<br>NPJB90593 |
-| dvdbnd5_layer0 | `b3b4f4ef` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `3994ea05` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `87ede12b` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `f8fd4c43` | BLES01898<br>BLJM61014<br>BLUS31194<br>NPJB90593 |
@@ -711,14 +660,12 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5_layer0 | `0a7fd87b` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `04d30783` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `b9b17d1f` | BLES01898<br>BLJM61014<br>BLUS31194 |
-| dvdbnd5_layer0 | `67166721` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `a26b681f` | BLES01898<br>BLJM61014<br>BLUS31194<br>NPJB90593 |
 | dvdbnd5_layer0 | `da8080a8` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `0348d575` | BLES01898<br>BLJM61014<br>BLUS31194<br>NPJB90593 |
 | dvdbnd5_layer0 | `746f106a` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `f9106a9b` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `de058c7a` | BLES01898<br>BLJM61014<br>BLUS31194 |
-| dvdbnd5_layer0 | `d7c45391` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `c55549f3` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `4036b65a` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `82739256` | BLES01898<br>BLJM61014<br>BLUS31194 |
@@ -800,7 +747,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5_layer0 | `83c166af` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `c9e67712` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `c36ca381` | BLES01898<br>BLJM61014<br>BLUS31194<br>NPJB90593 |
-| dvdbnd5_layer0 | `11c34aa9` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `db99899f` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `09a4479e` | BLES01898<br>BLJM61014<br>BLUS31194<br>NPJB90593 |
 | dvdbnd5_layer0 | `f9d53a92` | BLES01898<br>BLJM61014<br>BLUS31194 |
@@ -822,7 +768,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5_layer0 | `2e34ca47` | BLES01898<br>BLJM61014<br>BLUS31194<br>NPJB90593 |
 | dvdbnd5_layer0 | `cfe1aa23` | BLES01898<br>BLJM61014<br>BLUS31194<br>NPJB90593 |
 | dvdbnd5_layer0 | `3f1be342` | BLES01898<br>BLJM61014<br>BLUS31194 |
-| dvdbnd5_layer0 | `f99b7187` | BLES01898<br>BLJM61014<br>BLUS31194<br>NPJB90593 |
 | dvdbnd5_layer0 | `c50f88cb` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `5f856056` | BLES01898<br>BLJM61014<br>BLUS31194<br>NPJB90593 |
 | dvdbnd5_layer0 | `5fff2995` | BLES01898<br>BLJM61014<br>BLUS31194<br>NPJB90593 |
@@ -872,8 +817,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5_layer0 | `68d5a25e` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `889d001c` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `776116d8` | BLES01898<br>BLJM61014<br>BLUS31194<br>NPJB90593 |
-| dvdbnd5_layer0 | `82b82261` | BLES01898<br>BLJM61014<br>BLUS31194<br>NPJB90593 |
-| dvdbnd5_layer0 | `3ac12f99` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `d6b2453b` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `2939ed13` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `c8224e1f` | BLES01898<br>BLJM61014<br>BLUS31194 |
@@ -889,14 +832,12 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5_layer0 | `16da15dd` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `45fe50da` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `d3427c52` | BLES01898<br>BLJM61014<br>BLUS31194 |
-| dvdbnd5_layer0 | `c5e63d1b` | BLES01898<br>BLJM61014<br>BLUS31194<br>NPJB90593 |
 | dvdbnd5_layer0 | `39ce05f6` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `d4f73c96` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `6984f575` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `d0fb2423` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `755429cd` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `bc3d8306` | BLES01898<br>BLJM61014<br>BLUS31194 |
-| dvdbnd5_layer0 | `e4f41462` | BLES01898<br>BLJM61014<br>BLUS31194<br>NPJB90593 |
 | dvdbnd5_layer0 | `ecc7d114` | BLES01898<br>BLJM61014<br>BLUS31194<br>NPJB90593 |
 | dvdbnd5_layer0 | `cac94cb3` | BLES01898<br>BLJM61014<br>BLUS31194<br>NPJB90593 |
 | dvdbnd5_layer0 | `3994d414` | BLES01898<br>BLJM61014<br>BLUS31194 |
@@ -905,107 +846,38 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5_layer0 | `694bc393` | BLES01898<br>BLJM61014<br>BLUS31194 |
 | dvdbnd5_layer0 | `f4181dd7` | BLJM61014 |
 | dvdbnd5_layer0 | `b5803e79` | NPJB90593 |
-| dvdbnd5_layer0 | `24be7bbb` | NPJB90593 |
-| dvdbnd5_layer0 | `4bc87351` | NPJB90593 |
-| dvdbnd5_layer0 | `1cdad134` | NPJB90593 |
 | dvdbnd5_layer0 | `cdcc77fa` | NPJB90593 |
-| dvdbnd5_layer0 | `90800b62` | NPJB90593 |
-| dvdbnd5_layer0 | `4304c5a6` | NPJB90593 |
 | dvdbnd5_layer0 | `4b989a6b` | NPJB90593 |
-| dvdbnd5_layer0 | `97803dd8` | NPJB90593 |
-| dvdbnd5_layer0 | `20356d47` | NPJB90593 |
-| dvdbnd5_layer0 | `88916c81` | NPJB90593 |
-| dvdbnd5_layer0 | `a85d6b0d` | NPJB90593 |
 | dvdbnd5_layer0 | `f244988d` | NPJB90593 |
-| dvdbnd5_layer0 | `7c9a74e4` | NPJB90593 |
-| dvdbnd5_layer0 | `93857274` | NPJB90593 |
-| dvdbnd5_layer0 | `14da789e` | NPJB90593 |
-| dvdbnd5_layer0 | `8f0c02c2` | NPJB90593 |
-| dvdbnd5_layer0 | `7fcad596` | NPJB90593 |
-| dvdbnd5_layer0 | `a25cd57a` | NPJB90593 |
 | dvdbnd5_layer0 | `7c10ec70` | NPJB90593 |
 | dvdbnd5_layer0 | `7966d3ff` | NPJB90593 |
-| dvdbnd5_layer0 | `4042029d` | NPJB90593 |
-| dvdbnd5_layer0 | `c580cdf5` | NPJB90593 |
-| dvdbnd5_layer0 | `18b8b65f` | NPJB90593 |
-| dvdbnd5_layer0 | `5149b017` | NPJB90593 |
 | dvdbnd5_layer0 | `ae08503c` | NPJB90593 |
-| dvdbnd5_layer0 | `1c135272` | NPJB90593 |
 | dvdbnd5_layer0 | `afba2443` | NPJB90593 |
-| dvdbnd5_layer0 | `2c52e497` | NPJB90593 |
-| dvdbnd5_layer0 | `7c9aca2e` | NPJB90593 |
-| dvdbnd5_layer0 | `550cf341` | NPJB90593 |
-| dvdbnd5_layer0 | `14dacde8` | NPJB90593 |
 | dvdbnd5_layer0 | `ed473554` | NPJB90593 |
-| dvdbnd5_layer0 | `4dee1132` | NPJB90593 |
 | dvdbnd5_layer0 | `7bf4537f` | NPJB90593 |
 | dvdbnd5_layer0 | `2c81dacf` | NPJB90593 |
-| dvdbnd5_layer0 | `595a8682` | NPJB90593 |
-| dvdbnd5_layer0 | `56bb3919` | NPJB90593 |
-| dvdbnd5_layer0 | `7273e85b` | NPJB90593 |
 | dvdbnd5_layer0 | `c3c562d7` | NPJB90593 |
-| dvdbnd5_layer0 | `e69f7d1e` | NPJB90593 |
-| dvdbnd5_layer0 | `2f47b55c` | NPJB90593 |
 | dvdbnd5_layer0 | `c4bebcde` | NPJB90593 |
-| dvdbnd5_layer0 | `61d21b6b` | NPJB90593 |
-| dvdbnd5_layer0 | `e731acbe` | NPJB90593 |
 | dvdbnd5_layer0 | `7c66b743` | NPJB90593 |
-| dvdbnd5_layer0 | `266dfc9e` | NPJB90593 |
 | dvdbnd5_layer0 | `d0b024a3` | NPJB90593 |
-| dvdbnd5_layer0 | `bbc1f0eb` | NPJB90593 |
-| dvdbnd5_layer0 | `e88c09fa` | NPJB90593 |
-| dvdbnd5_layer0 | `cdf72036` | NPJB90593 |
-| dvdbnd5_layer0 | `7f8d5de7` | NPJB90593 |
-| dvdbnd5_layer0 | `7ee27816` | NPJB90593 |
-| dvdbnd5_layer0 | `1874f719` | NPJB90593 |
-| dvdbnd5_layer0 | `aea65a1c` | NPJB90593 |
 | dvdbnd5_layer0 | `7bd7ba8e` | NPJB90593 |
-| dvdbnd5_layer0 | `52991e44` | NPJB90593 |
-| dvdbnd5_layer0 | `d6df6730` | NPJB90593 |
-| dvdbnd5_layer0 | `bcb2eb23` | NPJB90593 |
 | dvdbnd5_layer0 | `c3c5b821` | NPJB90593 |
-| dvdbnd5_layer0 | `8bd7fe13` | NPJB90593 |
-| dvdbnd5_layer0 | `5db00096` | NPJB90593 |
-| dvdbnd5_layer0 | `641bff91` | NPJB90593 |
 | dvdbnd5_layer0 | `7c4a1e52` | NPJB90593 |
-| dvdbnd5_layer0 | `d916f567` | NPJB90593 |
-| dvdbnd5_layer0 | `7c33b0be` | NPJB90593 |
 | dvdbnd5_layer0 | `5a2e82ed` | NPJB90593 |
-| dvdbnd5_layer0 | `f7f545bf` | NPJB90593 |
 | dvdbnd5_layer0 | `e2277ce8` | NPJB90593 |
 | dvdbnd5_layer0 | `c448723a` | NPJB90593 |
-| dvdbnd5_layer0 | `ce5ee01a` | NPJB90593 |
-| dvdbnd5_layer0 | `880f0b40` | NPJB90593 |
-| dvdbnd5_layer0 | `c8faf03b` | NPJB90593 |
-| dvdbnd5_layer0 | `c684e43b` | NPJB90593 |
-| dvdbnd5_layer0 | `7ec5df25` | NPJB90593 |
-| dvdbnd5_layer0 | `d2bd4c5b` | NPJB90593 |
-| dvdbnd5_layer0 | `bcb3406d` | NPJB90593 |
-| dvdbnd5_layer0 | `a43ed8d3` | NPJB90593 |
 | dvdbnd5_layer0 | `7bbb219d` | NPJB90593 |
-| dvdbnd5_layer0 | `d18c29eb` | NPJB90593 |
-| dvdbnd5_layer0 | `598de5c1` | NPJB90593 |
 | dvdbnd5_layer0 | `3ae52c52` | NPJB90593 |
 | dvdbnd5_layer0 | `7c2d8561` | NPJB90593 |
 | dvdbnd5_layer0 | `d860ab6d` | NPJB90593 |
-| dvdbnd5_layer0 | `40da4b1c` | NPJB90593 |
-| dvdbnd5_layer0 | `83ecf06b` | NPJB90593 |
-| dvdbnd5_layer0 | `882c258f` | NPJB90593 |
-| dvdbnd5_layer0 | `6f6e704e` | NPJB90593 |
-| dvdbnd5_layer0 | `12794ae2` | NPJB90593 |
-| dvdbnd5_layer0 | `e34264e3` | NPJB90593 |
-| dvdbnd5_layer0 | `1adf6aa0` | NPJB90593 |
-| dvdbnd5_layer0 | `558056cc` | NPJB90593 |
-| dvdbnd5_layer0 | `34bc0601` | NPJB90593 |
-| dvdbnd5_layer0 | `d672f286` | NPJB90593 |
 | dvdbnd5_layer0 | `e691351a` | NPJB90593 |
 
 ## ArmoredCoreVerdictDay_X360
 [Back to top](#coverage)
 | Binder | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
-| dvdbnd5_layer0 | 13,250 | 13,490 | 98.22% |
-| dvdbnd5_layer1 | 3,338 | 3,430 | 97.31% |
+| dvdbnd5_layer0 | 13,258 | 13,490 | 98.28% |
+| dvdbnd5_layer1 | 3,340 | 3,430 | 97.37% |
 
 ### Hashes Missed
 | Binder | Hash | Sources |
@@ -1019,10 +891,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5_layer0 | `77357017` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer0 | `af6f2199` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer0 | `bc24a7c2` | FS201901J04X11<br>NM214801W03X11 |
-| dvdbnd5_layer0 | `67166721` | FS201901J04X11<br>NM214801W03X11 |
-| dvdbnd5_layer0 | `e4f41462` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer0 | `cfff33c9` | FS201901J04X11<br>NM214801W03X11 |
-| dvdbnd5_layer0 | `11c34aa9` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer0 | `1e7cf0d8` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer0 | `5d4e6eae` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer0 | `ea4a81bc` | FS201901J04X11<br>NM214801W03X11 |
@@ -1039,7 +908,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5_layer0 | `52850f2a` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer0 | `913a801a` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer0 | `a25b692e` | FS201901J04X11<br>NM214801W03X11 |
-| dvdbnd5_layer0 | `8ab70fff` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer0 | `af6f0ba8` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer0 | `2d86cdb7` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer0 | `59e8d7a7` | FS201901J04X11<br>NM214801W03X11 |
@@ -1058,7 +926,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5_layer0 | `f521c345` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer0 | `5d87a090` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer0 | `513f9094` | FS201901J04X11<br>NM214801W03X11 |
-| dvdbnd5_layer0 | `3ac12f99` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer0 | `9152f563` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer0 | `755413dc` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer0 | `ba95adad` | FS201901J04X11<br>NM214801W03X11 |
@@ -1075,7 +942,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5_layer0 | `5a253821` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer0 | `36a73666` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer0 | `4943a0e8` | FS201901J04X11<br>NM214801W03X11 |
-| dvdbnd5_layer0 | `b3b4f4ef` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer0 | `4fda6cce` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer0 | `5d878a9f` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer0 | `9a5fc5a5` | FS201901J04X11<br>NM214801W03X11 |
@@ -1182,7 +1048,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5_layer0 | `d5305887` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer0 | `84997141` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer0 | `bd30206c` | FS201901J04X11<br>NM214801W03X11 |
-| dvdbnd5_layer0 | `d7c45391` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer0 | `e59f1560` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer0 | `83856347` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer0 | `c2ef9fde` | FS201901J04X11<br>NM214801W03X11 |
@@ -1231,7 +1096,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5_layer0 | `7b412d9d` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer0 | `3c9356d2` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer0 | `5ac944d4` | FS201901J04X11<br>NM214801W03X11 |
-| dvdbnd5_layer0 | `2570c871` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer0 | `7c9b2743` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer0 | `f878613e` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer0 | `3e8424f4` | FS201901J04X11<br>NM214801W03X11 |
@@ -1254,7 +1118,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5_layer1 | `309e804b` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer1 | `da8080a8` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer1 | `b94f810c` | FS201901J04X11<br>NM214801W03X11 |
-| dvdbnd5_layer1 | `c5e63d1b` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer1 | `79be1fb5` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer1 | `849ee334` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer1 | `4e780ab5` | FS201901J04X11<br>NM214801W03X11 |
@@ -1330,7 +1193,6 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | dvdbnd5_layer1 | `6387979f` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer1 | `5165c559` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer1 | `68d5a25e` | FS201901J04X11<br>NM214801W03X11 |
-| dvdbnd5_layer1 | `f99b7187` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer1 | `c55650a1` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer1 | `e9ed91cc` | FS201901J04X11<br>NM214801W03X11 |
 | dvdbnd5_layer1 | `0a7fd87b` | FS201901J04X11<br>NM214801W03X11 |
