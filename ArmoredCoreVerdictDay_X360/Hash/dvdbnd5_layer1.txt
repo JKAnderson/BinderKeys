@@ -1501,6 +1501,7 @@
 /model/map/m3523/m3523_map.msb
 /model/map/m3524/m3524.msb
 /model/map/m3524/m3524_map.msb
+/model/map/m3524/m3524_mother_test03.msb
 /model/map/m3530/m3530.msb
 /model/map/m3530/m3530_htdcx.bnd
 /model/map/m3530/m3530_l.tpf.dcx
