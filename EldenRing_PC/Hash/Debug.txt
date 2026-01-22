@@ -703,6 +703,8 @@
 /testdata/event/m99_99_18_02.emeld.dcx
 /testdata/event/m99_99_18_03.emeld.dcx
 /testdata/event/m99_99_18_04.emeld.dcx
+/testdata/expression/chr.expdbg.dcx
+/testdata/expression/menu.expdbg.dcx
 /testdata/frontserverleaf_gr.address
 /testdata/hamaribusterlogreport.properties
 /testdata/hamaribusterlogsuppress.properties
