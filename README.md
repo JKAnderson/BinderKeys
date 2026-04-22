@@ -46,7 +46,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 # Coverage
 | Game | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
-| (All) | 384,431 | 385,478 | 99.72% |
+| (All) | 384,950 | 385,997 | 99.72% |
 | [ArmoredCore5_PS3](#armoredcore5_ps3) | 19,779 | 19,972 | 99.03% |
 | [ArmoredCore5_X360](#armoredcore5_x360) | 19,611 | 19,806 | 99.01% |
 | [ArmoredCore6_PC](#armoredcore6_pc) | 37,171 | 37,171 | 100.00% |
@@ -54,7 +54,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | [ArmoredCoreVerdictDay_X360](#armoredcoreverdictday_x360) | 16,601 | 16,920 | 98.11% |
 | [DarkSouls_PC](#darksouls_pc) | 6,244 | 6,244 | 100.00% |
 | [DarkSouls_PS3](#darksouls_ps3) | 6,697 | 6,697 | 100.00% |
-| [DarkSouls_X360](#darksouls_x360) | 6,332 | 6,332 | 100.00% |
+| [DarkSouls_X360](#darksouls_x360) | 6,851 | 6,851 | 100.00% |
 | [DarkSouls2_PC](#darksouls2_pc) | 18,946 | 18,946 | 100.00% |
 | [DarkSouls2Scholar_PC](#darksouls2scholar_pc) | 16,360 | 16,360 | 100.00% |
 | [DarkSouls3_PC](#darksouls3_pc) | 15,701 | 15,701 | 100.00% |
@@ -1181,6 +1181,8 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 [Back to top](#coverage)
 | Binder | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
+| dlcbnd0 | 519 | 519 | 100.00% |
+| dlcbnd1 | 0 | 0 | 100.00% |
 | dvdbnd0 | 6,028 | 6,028 | 100.00% |
 | dvdbnd1 | 111 | 111 | 100.00% |
 | patchbnd0 | 167 | 167 | 100.00% |
