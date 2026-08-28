@@ -11892,6 +11892,9 @@
 /asset/aeg/aeg099/aeg099_392_l.geomhkxbnd.dcx
 /asset/aeg/aeg099/aeg099_393.geombnd.dcx
 /asset/aeg/aeg099/aeg099_393_l.geomhkxbnd.dcx
+/asset/aeg/aeg099/aeg099_395.geombnd.dcx
+/asset/aeg/aeg099/aeg099_395_h.geomhkxbnd.dcx
+/asset/aeg/aeg099/aeg099_395_l.geomhkxbnd.dcx
 /asset/aeg/aeg099/aeg099_400.geombnd.dcx
 /asset/aeg/aeg099/aeg099_400_l.geomhkxbnd.dcx
 /asset/aeg/aeg099/aeg099_401.geombnd.dcx

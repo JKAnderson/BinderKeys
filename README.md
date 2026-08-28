@@ -46,7 +46,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 # Coverage
 | Game | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
-| (All) | 384,950 | 385,997 | 99.72% |
+| (All) | 385,023 | 386,070 | 99.72% |
 | [ArmoredCore5_PS3](#armoredcore5_ps3) | 19,779 | 19,972 | 99.03% |
 | [ArmoredCore5_X360](#armoredcore5_x360) | 19,611 | 19,806 | 99.01% |
 | [ArmoredCore6_PC](#armoredcore6_pc) | 37,171 | 37,171 | 100.00% |
@@ -59,7 +59,7 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 | [DarkSouls2Scholar_PC](#darksouls2scholar_pc) | 16,360 | 16,360 | 100.00% |
 | [DarkSouls3_PC](#darksouls3_pc) | 15,701 | 15,701 | 100.00% |
 | [DarkSoulsRemastered_NS](#darksoulsremastered_ns) | 6,005 | 6,005 | 100.00% |
-| [EldenRing_PC](#eldenring_pc) | 130,958 | 130,958 | 100.00% |
+| [EldenRing_PC](#eldenring_pc) | 131,031 | 131,031 | 100.00% |
 | [EldenRingNightreign_PC](#eldenringnightreign_pc) | 32,288 | 32,288 | 100.00% |
 | [Sekiro_PC](#sekiro_pc) | 8,765 | 8,765 | 100.00% |
 | [SekiroSoundtrack_PC](#sekirosoundtrack_pc) | 184 | 186 | 98.92% |
@@ -1231,10 +1231,10 @@ Many people have contributed to the hash dictionaries over the years; I've recor
 [Back to top](#coverage)
 | Binder | Hashes Found | Hashes Total | Percent |
 |---|---:|---:|---:|
-| Data0 | 5,837 | 5,837 | 100.00% |
-| Data1 | 39,422 | 39,422 | 100.00% |
+| Data0 | 5,891 | 5,891 | 100.00% |
+| Data1 | 39,425 | 39,425 | 100.00% |
 | Data2 | 39,723 | 39,723 | 100.00% |
-| Data3 | 1,660 | 1,660 | 100.00% |
+| Data3 | 1,676 | 1,676 | 100.00% |
 | DLC | 33,824 | 33,824 | 100.00% |
 | sd | 8,658 | 8,658 | 100.00% |
 | sd_dlc02 | 1,834 | 1,834 | 100.00% |
